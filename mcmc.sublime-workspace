@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"join",
+				"joint_annuity"
+			],
+			[
+				"p_m",
+				"p_m_l"
+			],
+			[
+				"p_",
+				"p_m"
+			],
+			[
+				"p_w",
+				"p_w_l"
+			],
+			[
+				"age",
+				"age_diff"
+			],
+			[
+				"years",
+				"years_to_pay"
+			],
+			[
+				"yea",
+				"years_to_pay"
+			],
+			[
+				"year",
+				"years_to_live"
+			],
+			[
+				"death_",
+				"death_f"
+			],
+			[
+				"death",
+				"death_m"
+			],
+			[
+				"bar",
+				"baroque_ejst"
+			],
+			[
+				"n",
+				"ncol"
+			],
+			[
+				"re",
+				"reshape2"
+			],
+			[
+				"ggpl",
+				"ggplot2"
+			],
+			[
+				"T",
+				"TRUE"
+			],
+			[
+				"den",
+				"density"
+			],
+			[
+				"norm",
+				"norm_2"
+			],
+			[
+				"m",
+				"mcmc"
+			],
+			[
+				"dis",
+				"dist_m"
+			],
+			[
+				"ba",
+				"baroque_ejst"
+			],
+			[
+				"D",
+				"Documents"
+			],
+			[
+				"c",
+				"csl"
+			],
+			[
+				"tab",
+				"table_count"
+			],
+			[
+				"data",
+				"data-economy"
+			],
+			[
+				"da",
+				"data_economy"
+			],
+			[
+				"plot",
+				"plot_basic_users"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mcmc.rmd",
+			"settings":
+			{
+				"buffer_size": 12041,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test_code.R",
+			"settings":
+			{
+				"buffer_size": 4342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ">   p_w <- sum(women_h <10)/n*100\n> p_w\n[1] 0\n>   men_h <- rnorm(n, 10, 20)\n>   women_h <- rnorm(n, 30, 10)\n>   hist(women_h)\n>   p_w <- sum(women_h <10)/n*100\n> p_w\n[1] 2.36\n> p_w",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix",
+				"name": "*REPL* [r]",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Packages/R Tools/R.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"set s",
+				"Set Syntax: R"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"View: Toggle Side Bar"
+			],
+			[
+				"se",
+				"Set Syntax: Markdown"
+			],
+			[
+				"s",
+				"Set Syntax: BibTeX"
+			],
+			[
+				"S",
+				"Set Syntax: R"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mackenza/Dropbox/baroque_ejst/test_code.R",
+		"/home/mackenza/Documents/R-project/baroque_ejst/pandoc.sh",
+		"/home/mackenza/Documents/R-project/baroque_ejst/ejors.rmd",
+		"/home/mackenza/Documents/R-project/baroque_ejst/references/refs.bib",
+		"/home/mackenza/Documents/R-project/baroque_ejst/mcmc.rmd",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/knit-chunk.sublime-snippet",
+		"/home/mackenza/Documents/R-project/baroque_ejst/test_code.R",
+		"/home/mackenza/R/montecarlo/suess_trumbo_2010.Rmd",
+		"/home/mackenza/R/montecarlo/Gelman.Rmd",
+		"/home/mackenza/.config/sublime-text-2/Packages/sweave.tmbundle-master/README.mdown",
+		"/home/mackenza/Documents/teaching/socl_906STs/lecture_notes/teaching.sublime-project",
+		"/home/mackenza/Documents/teaching/socl_906STs/lecture_notes/STS Core 4 Shapin 2012.doc",
+		"/home/mackenza/Documents/R-project/baroque_ejst/references/Exported Items.bib",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/Markdown.sublime-settings",
+		"/home/mackenza/Documents/teaching/socl_906STs/lecture_notes/STS Core 5 ANT 2012.md",
+		"/home/mackenza/Documents/R-project/baroque_ejst/ejors.pdf",
+		"/home/mackenza/Documents/R-project/baroque_ejst/mcmc.sublime-workspace",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/mackenza/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/mackenza/R/ngs/eagle_analysis.R",
+		"/home/mackenza/.config/sublime-text-2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/mackenza/R/ngs/sra_run_analysis.Rmd",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/ngs_data_methods.md",
+		"/home/mackenza/Dropbox/data-economy/DSR/ebi_visit_1nov2012.txt",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/syntheticbiology.sublime-snippet",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/sbi.sublime-snippet",
+		"/var/tmp/kdecache-mackenza/krun/17104.0.projects",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/mackenza/.config/sublime-text-2/Packages/WordCount/WordCount.py",
+		"/home/mackenza/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/SmartMarkdown.sublime-settings",
+		"/home/mackenza/.config/sublime-text-2/Packages/IPython Integration/README.md",
+		"/home/mackenza/R/ngs/sra_run_analysis.md",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/ngs_data_methods.rmd",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/R.sublime-settings",
+		"/home/mackenza/.config/sublime-text-2/Packages/R Tools/R.sublime-build",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/ngs_data_methods.txt",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/paper/ngs_data_methods.txt",
+		"/home/mackenza/.config/sublime-text-2/Packages/SmartMarkdown/Default.sublime-keymap",
+		"/home/mackenza/Dropbox/ngs_paper/paper/ngs_data_methods.rmd",
+		"/home/mackenza/Dropbox/ngs_paper/paper/references/ngs.bib",
+		"/home/mackenza/Dropbox/ngs_paper/paper/ngs_data_paper.sublime-workspace",
+		"/home/mackenza/Dropbox/data-economy/paper/ngs_data_methods.md",
+		"/home/mackenza/Dropbox/data-economy/paper/references/ngs.bib",
+		"/home/mackenza/Dropbox/data-economy/paper/pandoc_format_paper.sh",
+		"/home/mackenza/Dropbox/ngs_paper/build/pandoc.sublime-build",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/untitled.sublime-snippet",
+		"/home/mackenza/Dropbox/data-economy/paper/4S EASST talk.docx",
+		"/home/mackenza/Desktop/build.R",
+		"/home/mackenza/Desktop/test3.md",
+		"/home/mackenza/Desktop/test4.R",
+		"/home/mackenza/Desktop/test2.mdown",
+		"/home/mackenza/Desktop/test1.md",
+		"/home/mackenza/R/montecarlo/data/refs.bib",
+		"/home/mackenza/Desktop/test6.rmd",
+		"/home/mackenza/R/ngs/data/geo_schema.sql",
+		"/home/mackenza/Desktop/test.sublime-project",
+		"/media/0031-014A/Documents/supervision/xaroula/chapter 2 attempt.doc",
+		"/home/mackenza/Desktop/scrivener-manual-a4.pdf"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"echo=FALSE",
+			"FALSE",
+			"echo=FALSE",
+			"1000",
+			"latour",
+			"Robert_Introducing2010",
+			"========================================================",
+			"=======================================================",
+			"======================================================",
+			"=====================================================",
+			"====================================================",
+			"===================================================",
+			"==================================================",
+			"=================================================",
+			"================================================",
+			"===============================================",
+			"==============================================",
+			"=============================================",
+			"============================================",
+			"===========================================",
+			"==========================================",
+			"=========================================",
+			"========================================",
+			"=======================================",
+			"======================================",
+			"=====================================",
+			"====================================",
+			"===================================",
+			"==================================",
+			"=================================",
+			"================================",
+			"===============================",
+			"```{",
+			"~\\d",
+			"distribution",
+			"is",
+			"nist",
+			"nist ",
+			" flatten these curves\nflatten",
+			" flatten these curves\nfind out how",
+			"{",
+			"Edwards",
+			"Moore, 2009",
+			"Andrieu et.al.,",
+			"Andrieu et.al.,2003",
+			"Andrieu",
+			"porter_trust_1996",
+			"efron_bootstrap_1979",
+			"Latour, 1996",
+			"Latour",
+			"McGrayne, 2011",
+			"{",
+			"{Gelfand & Hills,",
+			"{Geman, 1984,",
+			"{Metropolis & Ulam, 1949",
+			"{Metropolis, 1953,",
+			"Wasserman, 2004,",
+			"Gill, 2011",
+			"Gill",
+			"Besag, 1974}",
+			"besag",
+			"based_1990, 398]. The",
+			"Geman & Geman, 1984",
+			"Geman & Geman",
+			"gelfand_sampling-based",
+			"Gelfand & Smith,",
+			"Robert, 2010,",
+			"{Robert, 2010,",
+			"Suess, 2010",
+			"Hastings, 1970",
+			"Efron",
+			"}]",
+			"Gelfand",
+			"{Hacking, 1975",
+			"quantities",
+			"[@deleuze",
+			"{Deleuze",
+			"Deleuze",
+			"{Bowker, 2011,",
+			"adkins_introduction",
+			"_2009",
+			"  \n",
+			" ",
+			"plot_basic_users",
+			"Wateron",
+			"Waterson",
+			"Latour",
+			"of",
+			"edwards",
+			"672",
+			"Coles",
+			"coles",
+			"##",
+			"metadata",
+			"Metadata",
+			"ADRIAN",
+			"Adrian",
+			"ADRIAN",
+			"Adrian",
+			"------------------------------------------------------------",
+			"Adrian",
+			"ADRIAN",
+			"Adrian",
+			"---------------------------------\n",
+			"---------------------------------",
+			"Discussion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"~ \\d"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mcmc.rmd",
+					"settings":
+					{
+						"buffer_size": 12041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								401
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test_code.R",
+					"settings":
+					{
+						"buffer_size": 4342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1473,
+								1473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "r",
+							"repl_id": "772ec72054b540b2a3ff8cb5d7356d9f",
+							"smart_indent": false,
+							"syntax": "Packages/R/R Console.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mmcmc",
+				"montecarlo/mcmc.rmd"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true
+}
