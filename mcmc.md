@@ -1,4 +1,7 @@
 # Markov Chain Monte Carlo simulation components
+
+## bivariate normal distribution
+
 A bivariate normal distribution. Could also simulate this using the MASS library (mvnorm)
 
 
@@ -9,7 +12,7 @@ sig1 <- 0.5  # variance of x
 sig2 <- 2  # variance of y
 rho <- 0.5  # corr(x, y)
 
-# Some additional variables for x-axis and y-axis
+### Some additional variables for x-axis and y-axis
 xm <- -3
 xp <- 3
 ym <- -3
@@ -18,7 +21,7 @@ yp <- 3
 x <- seq(xm, xp, length = as.integer((xp + abs(xm)) * 10))  # vector series x
 y <- seq(ym, yp, length = as.integer((yp + abs(ym)) * 10))  # vector series y
 
-# Core function
+### Core function
 bivariate <- function(x, y) {
     term1 <- 1/(2 * pi * sig1 * sig2 * sqrt(1 - rho^2))
     term2 <- (x - mu1)^2/sig1^2
@@ -29,10 +32,10 @@ bivariate <- function(x, y) {
     return(term1 * exp(-z * (2 * (1 - rho^2))))
 }
 
-# Computes the density values
+### Computes the density values
 z <- outer(x, y, bivariate)
 
-# Plot
+### Plot
 persp(x, y, z, main = "Bivariate Normal Distribution", sub = bquote(bold(mu[1]) == 
     .(mu1) ~ ", " ~ sigma[1] == .(sig1) ~ ", " ~ mu[2] == .(mu2) ~ ", " ~ sigma[2] == 
     .(sig2) ~ ", " ~ rho == .(rho)), col = "orchid2", theta = 55, phi = 30, 
@@ -43,43 +46,13 @@ persp(x, y, z, main = "Bivariate Normal Distribution", sub = bquote(bold(mu[1]) 
 ![plot of chunk bivar_norm](figure/bivar_norm.png) 
 
 
-## Curved and folded surfaces
+## Curved and folded surfaces - not normal
 
 
 ```r
 require(ggplot2)
-```
-
-```
-## Loading required package: ggplot2
-```
-
-```
-## Find out what's changed in ggplot2 with news(Version == "0.9.2.1", package
-## = "ggplot2")
-```
-
-```r
 require(reshape2)
-```
-
-```
-## Loading required package: reshape2
-```
-
-```r
 require(gridExtra)
-```
-
-```
-## Loading required package: gridExtra
-```
-
-```
-## Loading required package: grid
-```
-
-```r
 n = 100
 x = y = (scat <- sort(rnorm(n) + rchisq(n, df = 4)))
 fun <- function(x, y) {
@@ -145,7 +118,8 @@ plot(x1, x2)
 ```
 
 ```
-## Error: object 'x1' not found
+## Error: error in evaluating the argument 'x' in selecting a method for
+## function 'plot': Error: object 'x1' not found
 ```
 
 ```r
@@ -233,6 +207,13 @@ hist(Y, freq = F, main = "Logistic from R")
 
 
   
+
+## Accept-reject method to simulate beta
+
+[@robert_introducing_2010, 53-54], but code taken from mcms package
+
+![plot of chunk accept_reject_beta](figure/accept_reject_beta.png) 
+
 ## Markov-chain random walk to generate normal distribution
 
 
@@ -245,7 +226,6 @@ X[1] = runif(1)
 sigma = 0.9
 for (t in 1:10^4) {
     X[t + 1] = sigma * X[t] + runif(1, min = 0, max = 1)
-    # cat(t, ': ',X[t])
 }
 Y = rnorm(10^4, 0, 1/(1 - sigma^2))
 par(mfrow = c(1, 2))
@@ -294,7 +274,7 @@ print(ks.test(jitter(X), rbeta(5000, a, b)))
 ## 	Two-sample Kolmogorov-Smirnov test
 ## 
 ## data:  jitter(X) and rbeta(5000, a, b) 
-## D = 0.0242, p-value = 0.107
+## D = 0.0198, p-value = 0.2809
 ## alternative hypothesis: two-sided
 ```
 
@@ -312,7 +292,7 @@ ggplot(X.df, aes(x = Z)) + geom_density()
 
 ![plot of chunk beta_metro_hast](figure/beta_metro_hast3.png) 
 
-Note the acceptance rate on this: **`44.96`%**.
+Note the acceptance rate on this: **45.72%**.
 
 
 ## Two-stage Gibbs sampling
@@ -403,15 +383,15 @@ acf(d, plot = F)
 ## Autocorrelations of series 'd', by lag
 ## 
 ##      0      1      2      3      4      5      6      7      8      9 
-##  1.000  0.391  0.159  0.067  0.025  0.010  0.004 -0.003 -0.008 -0.009 
+##  1.000  0.406  0.162  0.068  0.025  0.009  0.002  0.004  0.001 -0.001 
 ##     10     11     12     13     14     15     16     17     18     19 
-## -0.007  0.000 -0.002 -0.003 -0.001 -0.001 -0.003 -0.006  0.002  0.002 
+##  0.006  0.007  0.005  0.007  0.003  0.005  0.002 -0.001  0.000  0.001 
 ##     20     21     22     23     24     25     26     27     28     29 
-##  0.003 -0.002 -0.005 -0.003  0.001  0.003  0.003  0.003  0.002  0.002 
+##  0.004 -0.001 -0.006 -0.008 -0.007 -0.001  0.001  0.005  0.003  0.003 
 ##     30     31     32     33     34     35     36     37     38     39 
-## -0.003 -0.007 -0.004 -0.001 -0.001 -0.002 -0.003 -0.002 -0.006 -0.005 
+##  0.001  0.001 -0.001  0.001  0.002  0.001 -0.002 -0.004 -0.005 -0.007 
 ##     40     41     42     43     44     45     46     47     48     49 
-## -0.001 -0.003 -0.009 -0.006  0.000 -0.002 -0.003  0.000  0.002 -0.002
+## -0.007 -0.006 -0.006 -0.002  0.005  0.009  0.007  0.002 -0.001  0.002
 ```
 
 ```r
@@ -466,11 +446,8 @@ ggplot(good.df, aes(x = x)) + geom_bar()
 ```
 
 ```
-## stat_bin: binwidth defaulted to range/30. Use 'binwidth = x' to adjust
-## this.
+## Error: Don't know how to add geom_bar() to a plot
 ```
-
-![plot of chunk simulate-chips](figure/simulate-chips.png) 
 
 ## Bivariate normal distribution
 
@@ -697,6 +674,29 @@ lines(the[, 1], the[, 2], cex = 0.6, pch = 19)
 
 ![plot of chunk normal_mixture_gibbs](figure/normal_mixture_gibbs.png) 
 
+## hastings 1970 paper - code from mcsm
+
+
+```
+## Error: object 'nsim' not found
+```
+
+```
+## Error: object 'nsim' not found
+```
+
+```
+## Error: error in evaluating the argument 'x' in selecting a method for
+## function 'plot': Error: object 'nsim' not found
+```
+
+```
+## Error: incorrect number of dimensions
+```
+
+```
+## Error: incorrect number of dimensions
+```
 
 
 

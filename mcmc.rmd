@@ -154,6 +154,34 @@ The point is that a supply of random variables can be used to generate different
 ```
 
   
+
+## Accept-reject method to simulate beta
+
+[@robert_introducing_2010, 53-54], but code taken from mcms package
+
+```{r accept_reject_beta, echo=FALSE} 
+    a = 2.7
+    b = 6.3
+    M = 2.67
+    y = runif(Nsim)
+    u = runif(Nsim, max = M)
+    par(mfrow = c(1, 2), mar = c(4, 4, 2, 1))
+    plot(y, u, col = "grey", pch = 19, cex = 0.4, ylab = expression(u.g(y)))
+    points(y[u < dbeta(y, a, b)], u[u < dbeta(y, a, b)], pch = 19, 
+        cex = 0.4)
+    curve(dbeta(x, a, b), col = "sienna", lwd = 2, add = T)
+    abline(h = M, col = "gold4", lwd = 2)
+    M = 1.68
+    y = rbeta(Nsim, 2, 6)
+    u = runif(Nsim, max = M)
+    labels = u < dbeta(y, a, b)/dbeta(y, 2, 6)
+    plot(y, u * dbeta(y, 2, 6), col = "grey", pch = 19, cex = 0.4, 
+        ylab = expression(u.g(y)))
+    points(y[labels], u[labels] * dbeta(y[labels], 2, 6), pch = 19, 
+        cex = 0.4)
+    curve(dbeta(x, a, b), col = "sienna", lwd = 2, add = T)
+    curve(M * dbeta(x, 2, 6), col = "gold4", lwd = 2, add = T)
+```
 ## Markov-chain random walk to generate normal distribution
 
 
@@ -165,7 +193,6 @@ X <- vector(length=10^4)
   sigma=0.9
   for (t in 1:10^4){
     X[t+1] = sigma*X[t] + runif(1,min=0, max=1)
-###    cat(t, ': ',X[t])  
       }
   Y= rnorm(10^4, 0, 1/(1-sigma**2))
   par(mfrow=c(1,2))
@@ -417,14 +444,45 @@ In chapter 7 [@robert_introducing_2010] apply Gibbs sampling to the normal mixtu
         the = rbind(the, prop)
     }
 
-    par(mar = c(4, 4, 1, 1))
     image(mu1, mu2, lli, xlab = expression(mu[1]), ylab = expression(mu[2]))
     contour(mu1, mu2, -lli, nle = 100, add = T)
     points(the[, 1], the[, 2], cex = 0.6, pch = 19)
     lines(the[, 1], the[, 2], cex = 0.6, pch = 19)
 
 ```
+## hastings 1970 paper - code from mcsm
 
+```{r hastings, echo=FALSE} 
+
+
+    a = c(0.1, 1, 10)
+    na = length(a)
+    x = array(0, c(na, nsim))
+    for (i in 1:na) {
+        acc = 0
+        for (j in 2:nsim) {
+            y <- x[i, (j - 1)] + runif(1, min = -a[i], max = a[i])
+            r = min(exp(-0.5 * ((y^2) - (x[i, (j - 1)]^2))), 
+                1)
+            u <- runif(1)
+            acc = acc + (u < r)
+            x[i, j] <- y * (u < r) + x[i, (j - 1)] * (u > r)
+        }
+    }
+    par(mfrow = c(3, na), mar = c(4, 4, 2, 1))
+    for (i in 1:na) plot((nsim - 500):nsim, x[i, (nsim - 500):nsim], 
+        ty = "l", lwd = 2, xlab = "Iterations", ylab = "", main = paste("Rate", 
+            (length(unique(x[i, ]))/nsim), sep = " "))
+    for (i in 1:na) {
+        hist(x[i, ], freq = F, xlim = c(-4, 4), ylim = c(0, 0.4), 
+            col = "grey", ylab = "", xlab = "", breaks = 35, 
+            main = "")
+        curve(dnorm(x), lwd = 2, add = T)
+    }
+    for (i in 1:na) acf(x[i, ], main = "")
+
+
+```
 
 
 ## References

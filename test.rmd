@@ -1,0 +1,5 @@
+
+```{r markov_chain, echo=FALSE, cache=TRUE, fig.cap='Markov-chain generated normal distribution', dpi=400}
+	source('mcmc_examples.R')
+	generate_markov()
+```
