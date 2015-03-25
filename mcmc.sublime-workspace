@@ -131,7 +131,7 @@
 			"file": "ejors_nov2012.rmd",
 			"settings":
 			{
-				"buffer_size": 56229,
+				"buffer_size": 56365,
 				"line_ending": "Unix"
 			}
 		},
@@ -220,6 +220,14 @@
 			"settings":
 			{
 				"buffer_size": 558,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build.sh",
+			"settings":
+			{
+				"buffer_size": 372,
 				"line_ending": "Unix"
 			}
 		}
@@ -544,7 +552,7 @@
 	"groups":
 	[
 		{
-			"selected": 12,
+			"selected": 13,
 			"sheets":
 			[
 				{
@@ -552,15 +560,15 @@
 					"file": "ejors_nov2012.rmd",
 					"settings":
 					{
-						"buffer_size": 56229,
+						"buffer_size": 56365,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								19924,
-								19924
+								68,
+								68
 							]
 						],
 						"settings":
@@ -569,7 +577,7 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 4414.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -579,7 +587,7 @@
 					"file": "ejors_nov2012.rmd",
 					"settings":
 					{
-						"buffer_size": 56229,
+						"buffer_size": 56365,
 						"regions":
 						{
 						},
@@ -884,6 +892,32 @@
 						{
 							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
 							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "build.sh",
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

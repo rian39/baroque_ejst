@@ -86,7 +86,7 @@
 \usepackage{geometry}
 \geometry{verbose, a4paper,tmargin=3cm,bmargin=3cm,lmargin=3cm,rmargin=3cm}
 \usepackage{setspace}
-% \doublespacing
+\doublespacing
 % so if you just keep a copy of this template in the directory you are working in, you
 % can adjust the margins by going into this file and messing with the margins.
 % the syntax is very unforgiving, but permits 3cm and 2.5in and some other things.
