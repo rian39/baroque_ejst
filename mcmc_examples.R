@@ -106,16 +106,16 @@ generate_markov <- function(x) {
 generate_distributions <- function(x) {
     library(ggplot2)
     library(reshape2)
-    	nval=10^4
-      normal <- rnorm(nval,0.5,0.5)
-      pois <- rpois(nval, 0.1)
-      beta <- rbeta(nval, 6,4)
-      dist <- data.frame(normal=normal, poisson = pois, beta=beta)
-      dist_m <- melt(dist)
-      names(dist_m) <- c('distribution', 'value')
-      ggplot(dist_m, aes(x=value, fill=distribution)) + 
-      geom_density(alpha=0.6) +
-      ggtitle('Probability density functions')
+    nval=10^4
+    normal <- rnorm(nval,0.5,0.5)
+    pois <- rpois(nval, 0.1)
+    beta <- rbeta(nval, 6,4)
+    dist <- data.frame(normal=normal, poisson = pois, beta=beta)
+    dist_m <- melt(dist)
+    names(dist_m) <- c('distribution', 'value')
+    ggplot(dist_m, aes(x=value, fill=distribution)) + 
+    geom_density(alpha=0.6) +
+    ggtitle('Probability density functions')
 
 }
 
