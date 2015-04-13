@@ -13,4 +13,4 @@ library(knitr)
 # 	prompt=TRUE,  # show the prompts; but perhaps we should not do this 
 # 	comment=NA    # turn off commenting of ouput (but perhaps we should not do this either
 #   )
-knit('ejors_nov2012.rmd')
+knit('mackenzie_mattering_march2015.rmd')

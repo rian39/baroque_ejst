@@ -92,7 +92,7 @@ generate_markov <- function(x) {
     X[1] =runif(1)
     sigma=0.9
     for (t in 1:10^4){
-    X[t+1] = sigma*X[t] + runif(1,min=0, max=1)
+        X[t+1] = sigma*X[t] + runif(1,min=0, max=1)
       }
     Y= rnorm(10^4, 0, 1/(1-sigma**2))
     par(mfrow=c(1,2))
