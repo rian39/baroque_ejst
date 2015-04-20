@@ -1,13 +1,3 @@
----
-title:""
-output:
-  pdf_document:
-      fig_width: 7
-      fig_height: 6
-      fig_caption: true
----
-
-
 
 # Distributive numbers:  a post-demographic perspective on probability
 
@@ -27,19 +17,19 @@ a.mackenzie@lancaster.ac.uk
 
 > "We ran the election 66,000 times every night," said a senior official, describing the computer simulations the campaign ran to figure out Obama's odds of winning each swing state. "And every morning we got the spit-out — here are your chances of winning these states. And that is how we allocated resources." [@Scherer_2012]
 
-In the US Presidential elections of November 2012, the data analysis team supporting the re-election of Barack Obama were said to be running a statistical model of the election 66,000 times every night [@Scherer_2012]. Their model, relying on polling data, records of past voting behaviour, and many other databases, was guiding tactical decisions about everything from where the presidential candidate would speak, where advertising money would be spent, to the telephone calls that targeted individual citizens (for donations or their vote).  Widely reported in television news and internationally in print media (_Time_, _New York Times_, _The Observer_), the outstanding feature of Obama's re-election seems to me to be the figure of 66,000 nightly model runs. Why so many thousand runs? This question was not addressed in the media reports, nor surprisingly, addressed in the online discussion on blogs and other online forums that followed. A glimmering of an answer appears in more extended accounts of the Obama data analytics efforts [@Issenberg_2012] that describe how, in contrast to the much smaller and traditional market research-based targeting of demographic groups used by the Republican campaign for Mitt Romney, the Obama re-election campaign focused on knowing, analysing and predicting what *individuals* would do in the election. We should note that the Obama data team's efforts are not unique or singular. In very many settings -- online gaming, epidemiology, fisheries management, and asthma management [@Simpson_2010], similar conjunctions appear. In post-demographic understandings of data, individuals  appear not simply as members of a population (although they certainly do that), but as themselves a kind of joint probability distribution at the conjunction  of many different numbers. If once individuals were collected, grouped, ranked and trained in populations, today,  we might say, they are distributed across populations of different kinds that intersect through them.   Individuals become more like populations or crowds. This chapter seeks to describe, therefore, a shift in what numbers do in their post-demographic modes of existence. 
+In the US Presidential elections of November 2012, the data analysis team supporting the re-election of Barack Obama were said to be running a statistical model of the election 66,000 times every night [@Scherer_2012]. Their model, relying on polling data, records of past voting behaviour, and many other databases, was guiding tactical decisions about everything from where the presidential candidate would speak, where advertising money would be spent, to the telephone calls that targeted individual citizens (for donations or their vote).  Widely reported in television news and internationally in print media (_Time_, _New York Times_, _The Observer_), the outstanding feature of Obama's re-election seems to me to be the figure of 66,000 nightly model runs. Why so many thousand runs? This question was not addressed in the media reports, nor surprisingly, addressed in the online discussion on blogs and other online forums that followed. A glimmering of an answer appears in more extended accounts of the Obama data analytics efforts [@Issenberg_2012] that describe how, in contrast to the much smaller and traditional market research-based targeting of demographic groups used by the Republican campaign for Mitt Romney, the Obama re-election campaign focused on knowing, analysing and predicting what *individuals* would do in the election. We should note that the Obama data team's efforts are not unique or singular. In very many settings -- online gaming, epidemiology, fisheries management, and asthma management [@Simpson_2010], similar conjunctions appear. In post-demographic understandings of data, individuals  appear not simply as members of a population (although they certainly do that), but as themselves a kind of joint probability distribution at the conjunction  of many different numbering practices. If once individuals were collected, grouped, ranked and trained in populations characterised by disparate attributes (life expectancies, socio-economic variables, educational development,etc.), today,  we might say, they are distributed across populations of different kinds that intersect through them.   Individuals become more like populations or crowds. This chapter seeks to describe, therefore, a shift in what numbers do in their post-demographic modes of existence. 
 
 ## $Pr(A)$: events and beliefs in the world
 
 How can individuals appear as populations? A standard textbook of statistics introduces the idea of probability as event-related number in this way:
 
-> We will assign a real number $Pr(A)$ to every event $A$, called the **probability** of A [@Wasserman_2003, 3]
+> We will assign a real number $Pr(A)$ to every event $A$, called the **probability** of $A$ [@Wasserman_2003, 3]
 
 Note that this number is 'real', so it can take infinitely many values between 0 and 1. The number concerns 'events', where events are understood as subsets of all the possible outcomes in a given 'sample space' ('the **sample space** $\Omega$ is the set of possible outcomes of an experiment.  ... Subsets of $\Omega$ are called **Events**' [@Wasserman_2003,3]).  The number assigned to events can be understood in two main ways.  Wasserman goes on to say: 
 
 > There are many interpretations of $Pr(A)$. The common interpretations are frequencies and degrees of belief. ... The difference in interpretation will not matter much until we deal with statistical inference. There the differing interpretations lead to two schools of inference: the frequentists and Bayesian schools [@Wasserman_2003, 6]. 
 
-The difference will only matter, suggests Wasserman, in relation to the style of statistical inference.  Even apart from the well-known alternate interpretations of probability, the practice of assigning numbers to events in $\Omega$ does not, I will suggest, remain stable. If we keep an eye on the machinery that assigns numbers, then we might have a better sense of how events and beliefs themselves might change shape. 
+The difference will only matter, suggests Wasserman, in relation to the style of statistical inference.  Even apart from these relatively  well-known alternate interpretations of probability, the practice of assigning numbers to events in $\Omega$ does not, I will suggest, remain stable. If we keep an eye on the machinery that assigns numbers, then we might have a better sense of how events and beliefs themselves might change shape. 
 
 Summarising his own account of the emergence of probability, the philosopher and historian Ian Hacking highlights the long-standing interplay of the two common interpretations of probability as frequencies and degrees of belief:
 
@@ -94,7 +84,7 @@ Contemporary probability, however, has become entwined with a particular mode of
 \begin{figure}
   \centering
       \includegraphics[width=0.9\textwidth]{figure/gibbs_normal_bivar.png}
-        \caption{Figure title}
+        \caption{Gibbs sampling-generated bivariate joint probability distribution}
   \label{fig:gibbs_normal_bivar}
 \end{figure}
 
@@ -112,7 +102,7 @@ Note too that while  the MCMC technique has become important in contemporary sta
 
 What MCMC adds to the world is subtle yet indicative. In their history of the technique, Christian Robert and George Casella, two leading statisticians specializing in  MCMC,  write that  ‘Markov chain Monte Carlo changed our emphasis from “closed form” solutions to algorithms, expanded our impact to solving “real” applied problems and to improving numerical algorithms using statistical ideas, and led us into a world where “exact” now means “simulated”’ [@Robert_2008,18].  This shift from ‘closed form’ solution to algorithms and to a world where ‘exact means simulated’ might be all too easily framed by a post-modern sensibility as another example of the primacy of the simulacra over the original. But here, a Baroque sensibility, awake to the convolution of objective-event and subjective-event senses of probability, might allow us to approach MCMC less in terms of a crisis of referentiality, and more in terms of the emergence of a new form of distributive number. 
 
-How so? The contours of Figure \ref{fig:gibbs_normal_bivar} define a volume. In its typical usages, the somewhat complicated shape of this  volume typically equates to a probability. MCMC, put in terms of the minimal formal textbook definition of probability is a way of assigning real numbers to events, but according to a mapping shaped by the convoluted folds of such volumes. The identification of $Pr(A)$ with a convoluted volume offers great potential to statistics. For instance,  political scientists regularly use MCMC in their work because their research terrain — elections, opinions, voting patterns — little resembles the image of events projected by mainstream statistics: independent, identically distributed ('iid') events staged in experiments.  MCMC allows, as the political scientist Jeff Gill observes, all unknown quantities to be ‘treated probabilistically’ [@Gill_2011,1]. We can begin to glimpse  why the Obama re-election team might have been running their model 66,000 times each night. In short, MCMC allows, at least in principle,  *every* number to be treated as a probability distribution.
+How so? The contours of Figure \ref{fig:gibbs_normal_bivar} define a volume. In its typical usages, the somewhat complicated shape of this  volume typically equates to the joint probability of multiple random variables. MCMC, put in terms of the minimal formal textbook definition of probability is a way of assigning real numbers to events, but according to a mapping shaped by the convoluted volumes created by joint probability distributions. The identification of $Pr(A)$ with a convoluted volume offers great potential to statistics. For instance,  political scientists regularly use MCMC in their work because their research terrain — elections, opinions, voting patterns — little resembles the image of events projected by mainstream statistics: independent, identically distributed ('iid') events staged in experiments.  MCMC allows, as the political scientist Jeff Gill observes, all unknown quantities to be ‘treated probabilistically’ [@Gill_2011,1]. We can begin to glimpse  why the Obama re-election team might have been running their model 66,000 times each night. In short, MCMC allows, at least in principle,  *every* number to be treated as a probability distribution.
 
 ## $\frac{1}{\infty}$: distributed individuals as random variables
 
@@ -124,11 +114,26 @@ Having a world — for the monad is a mode of having a world by including it —
 
 The numerator $1$ points to the singular individual (remember that for Leibniz, every monad is individual), the denominator, $\infty$, suggests a world. The fraction or ratio of 1 to $\infty$ tends towards a vanishingly small difference (zero), yet one whose division passes through all numbers (the whole world). In what sense is this fraction, in its convergence towards zero, including a world? Deleuze writes that for in the Baroque, ‘the painting-window [of Renaissance perspective] is replaced by tabulation, the grid on which lines, numbers and changing characters are inscribed. … Leibniz’s monad would be just a such grid’ (27). This suggests a different notion of the subject, no longer the subject of the world-view who sees along straight lines that converge at an infinite distance (the subject as locus of reason, experience or intentionality), but as ‘the truth of a variation’ (20) played out in numbers and characters tabulated on gridded screens. The monad is a grid of numbers and characters in variation. How could we concretise this?  Alongside the individual voters modelled by the Obama re-election team, we might think of border control officers viewing numerical, predictions of whether a particular passenger arriving on a flight is likely to present a security risk [@Amoore_2009], financial traders viewing changing prices for a currency or financial derivative on their screens [@Knorr-Cetina_2002], a genomic researcher deciding whether the alignment scores between two different DNA sequences suggests a phylogenetic relationship, or a player in a large online multi-player games such as World of Warcraft quickly checking the fatigue levels of their character before deciding what to do: these are all typical cases where numbers in long chains of converging variation populate the monadic grid. $\frac{1}{\infty}$ entails a significant shift in the understanding of number.  Deleuze writes that ‘the inverse number has special traits: ... by opposition to the natural number, which is collective, it is individual and distributive’ (129). If numbers become ‘individual and distributive,’ then the calculations that produce them might be important to map in the specificity of their transformations.
 
-```{r  distributions, echo=FALSE, message=FALSE, warning=FALSE, fig.cap='A variety of distributions'} 
+```{r  distributions, fig.show = 'hide', echo=FALSE, message=FALSE, warning=FALSE, fig.cap='A variety of distributions'} 
 
-	source('mcmc_examples.R')
-	generate_distributions()
+    library(ggplot2)
+    library(reshape2)
+    nval=10^4
+    normal <- rnorm(nval,0.5,0.5)
+    pois <- rpois(nval, 0.1)
+    beta <- rbeta(nval, 6,4)
+    dist <- data.frame(normal=normal, poisson = pois, beta=beta)
+    dist_m <- melt(dist)
+    names(dist_m) <- c('distribution', 'value')
+    ggplot(dist_m, aes(x=value, fill=distribution)) + geom_density(alpha=0.6) + theme_grey()
 ```
+
+\begin{figure}
+  \centering
+      \includegraphics[width=0.9\textwidth]{figure/distributions-1.png}
+        \caption{A variety of distributions}
+  \label{fig:distributions}
+\end{figure}
 
 Earlier we saw the flat operational definition of probability as assigning real numbers between 0 and 1 to events. By contrast,  a random variable 'is a mapping that assigns a real number to each outcome’ [@Wasserman_2003,19], but this number can vary. If events have probabilities, random variables comprehend a range of outcomes that are mapped to numbers in the form of probability distributions. The practical reality of random variables is variation, variations that are usually take the visual forms of the curves of the  probability distributions shown in Figure \ref{fig:distributions}. These distributions each have their own history (see [@Stigler_1986] for a detail historical account of key developments), but for our purposes the important points are both historical and philosophical. On the one hand, the historical development of probability distributions, particularly the Gaussian or normal distribution, but also lesser known Poisson, Beta or hypergeometric distributions, displays powerful inversions in which the mapping of numbers to events becomes a mapping of events to numbers. Hacking, for instance, describes how the 19th century statistician Adolphe Quetelet began to treat populations. The normal distribution 'became a reality underneath the phenomena of consciousness' [@Hacking_1990, 205].  A whole set of normalizations, often with strongly biopolitical dynamics hinges on this inversion of the relation between numbers and events in 19th century probability practice.
 
@@ -158,6 +163,13 @@ Both aspects of this commitment -- the curve as underlying reality of events, an
     lines(xx, .5*xx^-.5, col="blue")
     par(mfrow=c(1,1))
 ```
+
+\begin{figure}
+  \centering
+\includegraphics[width=0.9\textwidth]{figure/generate_distributions-1.png}
+        \caption{Simulated distributions}
+  \label{fig:generate_distributions}
+\end{figure}
 
 Figure \ref{fig:generate_distributions}  shows two plots. The histogram on the left shows the occurrence 10,000 computer generated random numbers between 0 and 1, and as expected, or hoped, they are more less uniformly distributed between 0 and 1. No single number is much more likely than another. This is simulation of the simplest probability distribution of all, the *uniform* probability distribution in which all events are equally likely. The uniform distribution could be assigned to a random variable.  The plot on the right derives from the same set of 10,000 random numbers, but shows a different probability distribution in which events mapped to numbers close to 0 are much more likely than events close to 1. What has happened here? The reshaping of the flow of numbers depends on a very simple multiplication of the simulated uniform distribution by itself:  
 
@@ -231,6 +243,14 @@ What form of rule regulates the itinerary of this path? 'Consider the Markov cha
 [^5]: It is hardly surprising that scientists working at the epicentre of the ‘closed world’ [@Edwards_1996] of post-WWII nuclear weapons research should develop such a technique.  In 1953, Metropolis, the Rosenbluths and the Tellers were calculating ‘the properties of any substance which may be considered as composing of interacting individual molecules’ [@Metropolis_1953, 1087]  (for instance, the flux of neutrons in a hydrogen bomb detonation). In their short but still widely cited paper, they describe how they used computer simulation to deal with the number of possible interactions in a substance, and to thereby come up with a statistical description of the properties of the substance. Their model system consists of a square containing only a few hundred particles. These particles are at various distances from each other and exert forces (electric, magnetic, etc.) on each other dependent on the distance. In order to estimate the probability that the substance will be in any particular state (fissioning, vibrating, crystallising, cooling down,  etc.), they needed to integrate over the many dimensional space comprising all the distance and forces between the particles. (This space is a typical multivariate joint distribution.) As they write, ‘it is evidently impossible to carry out a several hundred dimensional integral by the usual numerical methods, so we resort to the Monte Carlo method’ (1088), a method that Nicholas Metropolis and Stanislaw Ulam had already described in an earlier paper [@Metropolis_1949]. Here the problem is that the turbulent randomness of events in a square containing a few hundred particles thwarts calculations of the physical properties of the substance. They substitute for that non-integrable turbulent randomness a controlled flow of random variables generated by a computer. While still somewhat random (i.e. pseudo-random), these Monte Carlo variables taken together approximate to the integral of the many dimensional space. 
 
 In contemporary MCMC, the folds and contours mapped by the Markov Chains are no longer particles in physical systems but random variables with irregular probability distributions. But the connection between iteration and itinerary holds form. By generating many itineraries, a topography begins to take shape and appear. The computationally intensive character of MCMC arises from the iteration needed to construct many random walks across an uneven surface in order to ensure that all of its interesting features have been visited. As we saw in Figure \ref{fig:metrohast_normal}, the surface appears by virtue of the Markov chain paths that traverse it.
+
+
+\begin{figure}
+  \centering
+      \includegraphics[width=0.9\textwidth]{figure/metrohast_normal.png}
+        \caption{Metropolis-Hastings algorithm generated normal distribution}
+  \label{fig:metrohast_normal}
+\end{figure}
 
 ## Conclusion
 
