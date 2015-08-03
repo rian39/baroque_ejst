@@ -2,6 +2,7 @@
 
 library(knitr)
 
+<<<<<<< HEAD
  opts_chunk$set(
    dev="tiff",
    dpi=400,
