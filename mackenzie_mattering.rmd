@@ -136,7 +136,7 @@ Earlier we saw the flat operational definition of probability as assigning real 
 
 \begin {equation}
 \label {eq:gaussian}
-f(x;\mu, \sigma^2) = \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}
+f(x; \mu, \sigma^{2}) = {\frac{1}{\sigma \sqrt{2\pi}}}e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}
 \end {equation}
 
 On the other hand, the regularity, symmetry and above all mathematical expression of these functions in equations such as the one shown in Equation \ref{eq:gaussian} more or less delimited statistical practice. Such expressions offer great tractability since their shape, area or volume can all be expressed in terms of key tendencies such as $\mu$, the mean and $\sigma$, the variance. The 18th and 19th century development of statistical practice pivots on manipulations that combine or generalize such expressions to an increasing variety of situations. For instance, in Figure \ref{fig:gibbs_normal_bivar}, the normal distribution shown in Equation \ref{eq:gaussian} for one variable $x$ becomes a bi-variate normal distribution for two variables $x_1$ and $x_2$. Nevertheless, these equations also limit the range of shapes, areas and volumes that statistical practice could map onto events. When statisticians speak of 'fitting a density' (a probability distribution) to data, they affirm their commitment to the regular forms of probability distributions.

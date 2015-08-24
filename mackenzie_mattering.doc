@@ -1,875 +1,116 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 4.4.2.2 (Linux)"/>
-	<meta name="created" content="00:00:00"/>
-	<meta name="changedby" content="adrian "/>
-	<meta name="changed" content="2015-08-03T14:56:20.624868391"/>
-	<style type="text/css">
-		p { margin-bottom: 0.25cm; direction: ltr; color: #000000; line-height: 120%; text-align: left; orphans: 2; widows: 2 }
-		p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-AU }
-		p.cjk { font-family: "Times New Roman", serif; font-size: 12pt }
-		p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA }
-		h3 { text-indent: 0.7cm; margin-top: 0.35cm; margin-bottom: 0cm; direction: ltr; color: #4f81bd; text-align: justify; page-break-inside: avoid; orphans: 2; widows: 2 }
-		h3.western { font-family: "Calibri"; font-size: 12pt; so-language: en-GB }
-		h3.cjk { font-family: "Times New Roman", serif; font-size: 12pt }
-		h3.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA }
-		h4 { text-indent: 0.7cm; margin-top: 0.42cm; margin-bottom: 0.42cm; direction: ltr; color: #4f81bd; text-align: justify; page-break-inside: avoid; orphans: 2; widows: 2 }
-		h4.western { font-family: "Calibri"; so-language: en-GB; font-style: italic }
-		h4.cjk { font-family: "Times New Roman", serif; font-style: italic }
-		h4.ctl { font-family: "Times New Roman", serif; so-language: ar-SA; font-style: italic }
-		h3.chapter-western { color: #984806; font-family: "Calibri"; font-size: 16pt; so-language: en-GB; font-weight: normal; text-align: center; page-break-before: always }
-		h3.chapter-cjk { color: #984806; font-family: "Times New Roman", serif; font-size: 16pt; font-weight: normal; text-align: center; page-break-before: always }
-		h3.chapter-ctl { color: #984806; font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA; text-align: center; page-break-before: always }
-		h4.section-western { margin-top: 1.48cm; margin-bottom: 0.85cm; font-family: "Calibri"; font-size: 14pt; so-language: en-GB; font-style: normal; font-weight: normal; text-align: left }
-		h4.section-cjk { margin-top: 1.48cm; margin-bottom: 0.85cm; font-family: "Times New Roman", serif; font-size: 14pt; font-style: normal; font-weight: normal; text-align: left }
-		h4.section-ctl { margin-top: 1.48cm; margin-bottom: 0.85cm; font-family: "Times New Roman", serif; so-language: ar-SA; font-style: italic; text-align: left }
-		a:link { so-language: zxx }
-		code.cjk { font-family: "Courier New", monospace }
-	</style>
-</head>
-<body lang="en-GB" text="#000000" dir="ltr">
-<h3 class="chapter-western"><a name="distributive-numbers-a-post-demographic-perspective-on-probability"></a>
-Distributive numbers: a post-demographic perspective on probability</h3>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Adrian Mackenzie, 
-</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Sociology, Lancaster University, Bailrigg, LA14YL, UK,
-a.mackenzie@lancaster.ac.uk</p>
-<p align="justify" style="margin-left: 0.7cm; margin-top: 0.18cm; margin-bottom: 0.18cm; line-height: 100%">
-“We ran the election 66,000 times every night,” said a senior
-official, describing the computer simulations the campaign ran to
-figure out Obama’s odds of winning each swing state. “And every
-morning we got the spit-out — here are your chances of winning
-these states. And that is how we allocated resources.” (Scherer,
-2012)</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-In the US Presidential elections of November 2012, the data analysis
-team supporting the re-election of Barack Obama were said to be
-running a statistical model of the election 66,000 times every night
-(Scherer, 2012). Their model, relying on polling data, records of
-past voting behaviour, and many other databases, was guiding tactical
-decisions about everything from where the presidential candidate
-would speak, where advertising money would be spent, to the telephone
-calls that targeted individual citizens (for donations or their
-vote). Widely reported in television news and internationally in
-print media (<em>Time</em>, <em>New York Times</em>, <em>The
-Observer</em>), the outstanding feature of Obama’s re-election
-seems to me to be the figure of 66,000 nightly model runs. Why so
-many thousand runs? This question was not addressed in the media
-reports, nor surprisingly, addressed in the online discussion on
-blogs and other online forums that followed. A glimmering of an
-answer appears in more extended accounts of the Obama data analytics
-efforts (Issenberg, 2012) that describe how, in contrast to the much
-smaller and traditional market research-based targeting of
-demographic groups used by the Republican campaign for Mitt Romney,
-the Obama re-election campaign focused on knowing, analysing and
-predicting what <em>individuals</em> would do in the election. We
-should note that the Obama data team’s efforts are not unique or
-singular. In very many settings – online gaming, epidemiology,
-fisheries management, and asthma management (Simpson, Tan, Winn, et
-al., 2010), similar conjunctions appear. In post-demographic
-understandings of data, individuals appear not simply as members of a
-population (although they certainly do that), but as themselves a
-kind of joint probability distribution at the conjunction of many
-different numbering practices. If once individuals were collected,
-grouped, ranked and trained in populations characterised by disparate
-attributes (life expectancies, socio-economic variables, educational
-development,etc.), today, we might say, they are distributed across
-populations of different kinds that intersect through them.
-Individuals become more like populations or crowds. This chapter
-seeks to describe, therefore, a shift in what numbers do in their
-post-demographic modes of existence.</p>
-<h4 class="section-western"><a name="pra-events-and-beliefs-in-the-world"></a>
-<em>Pr</em>(<em>A</em>): events and beliefs in the world</h4>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-How can individuals appear as populations? A standard textbook of
-statistics introduces the idea of probability as event-related number
-in this way:</p>
-<p align="justify" style="margin-left: 0.7cm; margin-top: 0.18cm; margin-bottom: 0.18cm; line-height: 100%">
-We will assign a real number <em>Pr</em>(<em>A</em>) to every event
-<em>A</em>, called the <strong>probability</strong> of <em>A</em>
-(Wasserman, 2003: 3)</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Note that this number is ‘real’, so it can take infinitely many
-values between 0 and 1. The number concerns ‘events’, where
-events are understood as subsets of all the possible outcomes in a
-given ‘sample space’ (‘the <strong>sample space</strong> Ω is
-the set of possible outcomes of an experiment. … Subsets of Ω are
-called <strong>Events</strong>’ (Wasserman, 2003: 3)). The number
-assigned to events can be understood in two main ways. Wasserman goes
-on to say:</p>
-<p align="justify" style="margin-left: 0.7cm; margin-top: 0.18cm; margin-bottom: 0.18cm; line-height: 100%">
-There are many interpretations of <em>Pr</em>(<em>A</em>). The common
-interpretations are frequencies and degrees of belief. … The
-difference in interpretation will not matter much until we deal with
-statistical inference. There the differing interpretations lead to
-two schools of inference: the frequentists and Bayesian schools
-(Wasserman, 2003: 6).</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-The difference will only matter, suggests Wasserman, in relation to
-the style of statistical inference. Even apart from these relatively
-well-known alternate interpretations of probability, the practice of
-assigning numbers to events in Ω does not, I will suggest, remain
-stable. If we keep an eye on the machinery that assigns numbers, then
-we might have a better sense of how events and beliefs themselves
-might change shape.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Summarising his own account of the emergence of probability, the
-philosopher and historian Ian Hacking highlights the long-standing
-interplay of the two common interpretations of probability as
-frequencies and degrees of belief:</p>
-<p align="justify" style="margin-left: 0.7cm; margin-top: 0.18cm; margin-bottom: 0.18cm; line-height: 100%">
-I claimed in <em>The Emergence of Probability</em> that our idea of
-probability is a Janus-faced mid-seventeenth-century mutation in the
-Renaissance idea of signs. It came into being with a frequency aspect
-and a degree-of-belief aspect (Hacking, 1990: 96).</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-In the work from 1975, Hacking, writing largely ahead of the marked
-shifts in probability practice I discuss, claims that there was no
-probability prior to 1660 (Hacking, 1975). As we can verify in the
-statistics textbooks, there is nothing controversial in Hacking’s
-claim that probability is Janus-faced. Historian of statistics and
-statisticians themselves regularly describe about probability as
-bifurcated in the same way. Statisticians commonly contrast the
-frequentist and degree-of-belief, the <em>aleatory</em> and the
-<em>epistemic</em>, views of probability. Although the history of
-statistics shows various distributions and permutations of emphasis
-on the subjective and objective versions of probability,
-statisticians are now relatively happily normalised around a divided
-view of probability.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%"><a name="fnref1"></a>
-Contemporary probability, however, has become entwined with a
-particular mode of computational machinery – and here we might
-think of machinery as something like Baroque theatre machinery, with
-its interest in the production of effects and appearances that are
-never fully naturalised – that deeply convolutes the difference
-between the epistemic and aleatory faces of probability. Not only is
-probability a Baroque invention, the fundamental instability that
-permits recent mutations in probability practice has a distinctively
-Baroque flavour in the way that it combines something happening in
-the world with something that pertains to subjects. The techniques
-involved here include the bootstrap (Efron, 1975),
-expectation-maximisation (Dempster, Laird &amp; Rubin, 1977), and
-Markov-Chain Monte Carlo (Gelfand &amp; Smith, 1990). These
-techniques support increasingly post-demographic treatments of
-individuals, in which for instance, individuals increasingly attract
-probability distributions, as in Obama’s data-intensive re-election
-campaign.<a href=""><sup>1</sup></a> In examining a salient
-contemporary treatment of probability, my concern is the problem of
-invention of forms of thought able to critically affirm mutations in
-probability today. These mutations arise, I suggest, in many, perhaps
-all, contemporary settings where populations, events, individuals,
-numbers and calculation are to be found. In such settings, a Baroque
-sense of the enfolding of inside and outside, of belief and events,
-of approximation and exactitudes offers at least tentative pointers
-to a different way of describing what is happening as aleatory and
-the epistemic senses of probability find themselves re-distributed.</p>
-<h4 class="section-western"><a name="exact-means-simulated"></a>Exact
-means simulated</h4>
-<p align="center" style="margin-bottom: 0cm; line-height: 100%">Figure
-1 – Figure_1.tiff</p>
-<p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; line-height: 100%">
-Figure 1: Bivariate normal distribution produced by Gibbs sampling</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-The contour plot in Figure 1 was generated by the widely used
-statistical simulation technique called MCMC – Markov Chain Monte
-Carlo simulation. MCMC has greatly transformed much statistical
-practices since the early 1990’s. The diagram shows the contours of
-a distribution (a bivariate normal distribution in this case)
-generated by MCMC that fits a mixture of two normally-distributed
-sets of numbers to some data. The topography of this diagram is the
-product of a simulation of specific kinds of numbers, in this case,
-the mean values of two normal distributions. The contour lines trace
-the different values of the means (<em>μ</em><sub>1</sub>, <em>μ</em><sub>2</sub>)
-of the variables. For the time being, we need know nothing about what
-such peaks refer to, apart from the fact they are something to do
-with probability, with assigning numbers to events. A set of
-connected points starting on the side of the one of the peaks and
-clustering on the peak mark the traces of the itinerary of the MCMC
-algorithm as it explores the topography in search of peaks that
-represent more likely events or beliefs. Importantly for present
-purposes, this path comprises 60,000 steps (that is, a around the
-same number mentioned by Obama’s data team).</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-When ‘Sampling-Based Approaches to Calculating Marginal Densities,’
-the article that first announced the arrival of MCMC in statistical
-practice (Robert &amp; Casella, 2010: 9) appeared in <em>Journal of
-the American Statistical Association</em> in 1990 (Gelfand &amp;
-Smith, 1990), the statisticians Alan Gelfand and Adrian Smith
-(subsequently Director General of Science and Research in UK
-government’s Department for Innovation, Universities and Skills)
-stated that the problem they were addressing was how ‘to obtain
-numerical estimates of non-analytically available marginal densities
-of some or all [the collection of random variables] simply by means
-of simulated samples from available conditional distributions, and
-without recourse to sophisticated numerical analytic methods’
-(398). Their formulation emphasises the mixture of using things that
-are accessible – simulated samples – to explore things that are
-not directly accessible – ‘non-analytically available marginal
-densities … of random variables’ (some of this probability
-terminology will be explored below). For present purposes, the
-important point is a newly non-analytical probability is in formation
-here. It lies at some distance from the classical probability
-calculus first developed in the 17th century around games of chance,
-mortality statistics and the like.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%"><a name="fnref2"></a>
-Note that these statisticians are not announcing the invention of a
-new technique. They explicitly take up the already existing Gibbs
-sampler algorithm for image-processing, as described in (Geman &amp;
-Geman, 1984), investigate some of its formal properties
-(convergence), and then set out a number of mainstream statistical
-problems that could be done differently using MCMC and the Gibbs
-sampler in particular. They show how MCMC facilitates Bayesian
-statistical inference – the approach to statistics that shapes
-basic parameters in the light of previous experience - by
-re-configuring six illustrative mainstream statistical examples:
-multinomial models, hierarchical models, multivariate normal
-sampling, variance components, and the k-group normal means model.
-The illustrations in the paper suggest how previously difficult
-problems of statistical inference can be carried out by sampling
-simulations. As they state in another paper from the same year, ‘the
-potential of the methodology is enormous, rendering straightforward
-the analysis of a number of problems hitherto regarded as
-intractable’ (Gelfand &amp; Smith, 1990: 984).<a href=""><sup>2</sup></a></p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%"><a name="fnref3"></a>
-Note too that while the MCMC technique has become important in
-contemporary statistics, and especially in Bayesian statistics
-(Gelman, Carlin, Stern, et al., 2003), it plays significant roles in
-applications such as image, speech and audio processing, computer
-vision, computer graphics, molecular biology and genomics, robotics,
-decision theory and information retrieval (Andrieu, De Freitas,
-Doucet, et al., 2003: 37–38). Usually called an <em>algorithm</em>
-– a series of precise operations that transform or reshape data –
-MCMC has been called one of ‘the ten most influential algorithms’
-in twentieth century science and engineering (Andrieu, De Freitas,
-Doucet, et al., 2003: 5).<a href=""><sup>3</sup></a> But MCMC is not
-really an algorithm, or at least, if it is, it is an algorithm
-subject to substantially different algorithmic implementations (for
-instance, Metropolis-Hastings and Gibbs Sampler are two popular
-implementations). In all of these settings, MCMC is a way of
-simulating a sample of points distributed on a complicated curve or
-surface (see Figure 1). The MCMC technique addresses the problem of
-how to explore and map very uneven or folded distributions of
-numbers. It is a way of navigating areas or volumes whose curves,
-convolutions and hidden recesses elude geometrical spaces and
-perspectival vision. Accounts of MCMC emphasise the
-‘high-dimensional’ spaces in which the algorithm works: ‘there
-are several high-dimensional problems, such as computing the volume
-of a convex body in <em>d</em> dimensions, for which MCMC simulation
-is the only known general approach for providing a solution within a
-reasonable time’ (Andrieu, De Freitas, Doucet, et al., 2003: 5). We
-might say that MCMC alongside other statistical algorithms such as
-the bootstrap or EM increasingly facilitates the envisioning of
-high-dimensional, convoluted data spaces. Simulating the distribution
-of numbers over folded surfaces, MCMC renders the areas and volumes
-of folds more amenable to calculation.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-What MCMC adds to the world is subtle yet indicative. In their
-history of the technique, Christian Robert and George Casella, two
-leading statisticians specializing in MCMC, write that ‘Markov
-chain Monte Carlo changed our emphasis from “closed form”
-solutions to algorithms, expanded our impact to solving “real”
-applied problems and to improving numerical algorithms using
-statistical ideas, and led us into a world where “exact” now
-means “simulated”’ (Robert &amp; Casella, 2008: 18). This shift
-from ‘closed form’ solution to algorithms and to a world where
-‘exact means simulated’ might be all too easily framed by a
-post-modern sensibility as another example of the primacy of the
-simulacra over the original. But here, a Baroque sensibility, awake
-to the convolution of objective-event and subjective-event senses of
-probability, might allow us to approach MCMC less in terms of a
-crisis of referentiality, and more in terms of the emergence of a new
-form of distributive number.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-How so? The contours of Figure 1 define a volume. In its typical
-usages, the somewhat complicated shape of this volume typically
-equates to the joint probability of multiple random variables. MCMC,
-put in terms of the minimal formal textbook definition of probability
-is a way of assigning real numbers to events, but according to a
-mapping shaped by the convoluted volumes created by joint probability
-distributions. The identification of <em>Pr</em>(<em>A</em>) with a
-convoluted volume offers great potential to statistics. For instance,
-political scientists regularly use MCMC in their work because their
-research terrain — elections, opinions, voting patterns — little
-resembles the image of events projected by mainstream statistics:
-independent, identically distributed (‘iid’) events staged in
-experiments. MCMC allows, as the political scientist Jeff Gill
-observes, all unknown quantities to be ‘treated probabilistically’
-(Gill, 2011: 1). We can begin to glimpse why the Obama re-election
-team might have been running their model 66,000 times each night. In
-short, MCMC allows, at least in principle, <em>every</em> number to
-be treated as a probability distribution.</p>
-<h4 class="section-western">1/∞: distributed individuals as random
-variables</h4>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Let us return to the typical problem of the individual voters
-modelled by the Obama re-election team. Treating every number as a
-probability distribution involves exteriorising numbers in the
-service of an interiorising of probability. Techniques of statistical
-simulation multiply numbers in the world and assign numbers to
-events, but largely in the service of modifying, limiting,
-quantifying uncertainties associated with belief. This folding
-together of subjective and objective, of epistemic and aleatory
-senses of probability can be thought as a neo-Baroque mode of
-probability. The Baroque sense of probability, especially as
-articulated by G.W. Leibniz, the ‘first philosopher of probability’
-(Hacking, 1975: 57), is helpful in holding together these
-contrapuntal movements. Leibniz’s famously impossible claim that
-each monad <em>includes</em> the whole world is, according to Gilles
-Deleuze, actually a claim about numbers in variation. Through
-numbers, understood in a somewhat unorthodox way, monads — the
-parts of the world — can include the whole world. Deleuze says:
-‘for Leibniz, the monad is clearly the most “simple” number,
-that is, the inverse, reciprocal, harmonic number’ (Deleuze, 1993:
-129).</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Having a world — for the monad is a mode of having a world by
-including it — as a number entails a very different notion of
-<em>having</em> and a somewhat different notion of number. The
-symbolic expression of this inclusion is, according to Deleuze:</p>
-<p lang="en-AU" class="western"><br/>
-1/∞</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-The numerator 1 points to the singular individual (remember that for
-Leibniz, every monad is individual), the denominator, ∞, suggests a
-world. The fraction or ratio of 1 to ∞ tends towards a vanishingly
-small difference (zero), yet one whose division passes through all
-numbers (the whole world). In what sense is this fraction, in its
-convergence towards zero, including a world? Deleuze writes that for
-in the Baroque, ‘the painting-window [of Renaissance perspective]
-is replaced by tabulation, the grid on which lines, numbers and
-changing characters are inscribed. … Leibniz’s monad would be
-just a such grid’ (27). This suggests a different notion of the
-subject, no longer the subject of the world-view who sees along
-straight lines that converge at an infinite distance (the subject as
-locus of reason, experience or intentionality), but as ‘the truth
-of a variation’ (20) played out in numbers and characters tabulated
-on gridded screens. The monad is a grid of numbers and characters in
-variation. How could we concretise this? Alongside the individual
-voters modelled by the Obama re-election team, we might think of
-border control officers viewing numerical, predictions of whether a
-particular passenger arriving on a flight is likely to present a
-security risk (Amoore, 2009), financial traders viewing changing
-prices for a currency or financial derivative on their screens
-(Knorr-Cetina &amp; Bruegger, 2002), a genomic researcher deciding
-whether the alignment scores between two different DNA sequences
-suggests a phylogenetic relationship, or a player in a large online
-multi-player games such as World of Warcraft quickly checking the
-fatigue levels of their character before deciding what to do: these
-are all typical cases where numbers in long chains of converging
-variation populate the monadic grid. $\frac{1}{\infty}$ entails a
-significant shift in the understanding of number. Deleuze writes that
-‘the inverse number has special traits: … by opposition to the
-natural number, which is collective, it is individual and
-distributive’ (129). If numbers become ‘individual and
-distributive,’ then the calculations that produce them might be
-important to map in the specificity of their transformations.</p>
-<p align="center" style="margin-bottom: 0cm; line-height: 100%">Figure
-2: Figure_2.tiff</p>
-<p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; line-height: 100%">
-Figure 2: A variety of distributions</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Earlier we saw the flat operational definition of probability as
-assigning real numbers between 0 and 1 to events. By contrast, a
-random variable ‘is a mapping that assigns a real number to each
-outcome’ (Wasserman, 2003: 19), but this number can vary. If events
-have probabilities, random variables comprehend a range of outcomes
-that are mapped to numbers in the form of probability distributions.
-The practical reality of random variables is variation, variations
-that are usually take the visual forms of the curves of the
-probability distributions shown in Figure 2. These distributions each
-have their own history (see (Stigler, 1986) for a detail historical
-account of key developments), but for our purposes the important
-points are both historical and philosophical. On the one hand, the
-historical development of probability distributions, particularly the
-Gaussian or normal distribution, but also lesser known chi-square,
-Beta or hypergeometric distributions, displays powerful inversions in
-which the mapping of numbers to events becomes a mapping of events to
-numbers. Hacking, for instance, describes how the 19th century
-statistician Adolphe Quetelet began to treat populations. The normal
-distribution ‘became a reality underneath the phenomena of
-consciousness’ (Hacking, 1990: 205). A whole set of normalizations,
-often with strongly biopolitical dynamics hinges on this inversion of
-the relation between numbers and events in 19th century probability
-practice.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-On the other hand, the regularity, symmetry and above all
-mathematical expression of these functions in equations such as the
-one shown in Equation more or less delimited statistical practice.
-Such expressions offer great tractability since their shape, area or
-volume can all be expressed in terms of key tendencies such as <em>μ</em>,
-the mean and <em>σ</em>, the variance. The 18th and 19th century
-development of statistical practice pivots on manipulations that
-combine or generalize such expressions to an increasing variety of
-situations. For instance, in Figure 2, the normal distribution shown
-in Equation for one variable <em>x</em> becomes a bi-variate normal
-distribution for two variables <em>x</em><sub>1</sub> and <em>x</em><sub>2</sub>.
-Nevertheless, these equations also limit the range of shapes, areas
-and volumes that statistical practice could map onto events. When
-statisticians speak of ‘fitting a density’ (a probability
-distribution) to data, they affirm their commitment to the regular
-forms of probability distributions.</p>
-<h4 class="section-western"><a name="the-endless-flow-of-random-variables"></a>
-The endless flow of random variables</h4>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Both aspects of this commitment – the curve as underlying reality
-of events, and the normalized expression of curves in functions whose
-parameters shape the curve – begin to shift in techniques such as
-MCMC. In particular, following Deleuze’s discussion of the monad as
-distributive number, we might say that the probability distributions
-now function less as the collective form of individuals, and more as
-the distributive form of individuals across increasingly complex and
-folded surfaces. We saw above that MCMC inaugurates ‘a world where
-“exact” now means “simulated”’ (Robert &amp; Casella, 2008:
-18). This comment links an analytical quality – exactitude – with
-a calculative, modelling process – simulation. But rather than
-attesting to the pre-eminence of simulation, we should see techniques
-such as MCMC as ways of exploring the concavities and convexities,
-the surfaces and volumes generated by random variables. Put more
-statistically, MCMC maps the contoured and folded surfaces that arise
-as flows of data or random variables come together in one joint
-probability distribution. These surfaces, generated by the
-combinations of mathematical functions or probability distributions
-are not easy to see or explore, except in the exceptional cases where
-calculus can deliver a deductive analytical ‘closed form’
-solution to the problems of integration: finding the area and thereby
-estimating the distribution function for one variable. By contrast,
-MCMC effectively simulates some important parts of the surface, and
-in simulating convoluted volumes, loosens the analytical ties that
-bind probability to certain well-characterised analytical regular
-forms such as the normal curve. In this simulation of folded and
-multiplied probability distributions, the lines between objective and
-subjective, or aleatory and epistemic probability, begin to shift not
-towards some total computer simulation of reality but towards a
-re-folding of probability through world and experience. The
-subjective and the objective undergo an ontological transformation in
-which calculation lies neither simply on the side of the knowing
-subject nor inheres in things in the world. These practices perhaps
-make those boundaries radically convoluted.</p>
-<p align="center" style="margin-bottom: 0cm; line-height: 100%">Figure
-3: Figure_3.tiff</p>
-<p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; line-height: 100%">
-Figure 3: Simulated distributions</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Figure 3 shows two plots. The histogram on the left shows the
-occurrence 10,000 computer generated random numbers between 0 and 1,
-and as expected, or hoped, they are more less uniformly distributed
-between 0 and 1. No single number is much more likely than another.
-This is simulation of the simplest probability distribution of all,
-the <em>uniform</em> probability distribution in which all events are
-equally likely. The uniform distribution could be assigned to a
-random variable. The plot on the right derives from the same set of
-10,000 random numbers, but shows a different probability distribution
-in which events mapped to numbers close to 0 are much more likely
-than events close to 1. What has happened here? The reshaping of the
-flow of numbers depends on a very simple multiplication of the
-simulated uniform distribution by itself:</p>
-<p align="justify" style="margin-left: 0.7cm; margin-top: 0.18cm; margin-bottom: 0.18cm; line-height: 100%">
-A real function of a random variable is another random variable.
-Random variables with a wide variety of distributions can be obtained
-by transforming a standard uniform random variable <em>U</em> ≈ <em>UNIF</em>(0, 1)
-(Suess &amp; Trumbo, 2010: 32).</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-It happens that multiplying the uniform variable by itself (<em>U</em><sup>2</sup>)
-produces an instance of another random variable, now characterised by
-the <em>Beta</em> distribution, shown on the right of Figure 3. While
-generated by the same set of random numbers, this is now a different
-random variable. It would be possible to produce that curve of a beta
-distribution analytically, by plotting points generated by the <em>Beta</em>
-probability density function:</p>
-<p align="justify" style="margin-left: 0.7cm; margin-top: 0.18cm; margin-bottom: 0.18cm; line-height: 100%">
-<i>f (x; α, β)</i> = constant • x <sup>α−1</sup> (1 − x)<sup>
-β−1</sup></p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-where <em>α</em> = 0.5 and <em>β</em> = 1 in equation . But
-in the case of the plots shown on the right of Figure 3, the random
-variable has been generated from a flow of random numbers. So, from a
-flow of random numbers, generated by the computer (using an
-<em>pseudo-random</em> number generator algorithm), more random
-variables result, but with different shapes or probability densities.
-As Robert and Casella write, ‘the point is that a supply of random
-variables can be used to generate different distributions’ (Robert
-&amp; Casella, 2010: 44). Indeed, this is the principle of all Monte
-Carlo simulations, methods that ‘rely on the possibility of
-producing (with a computer) a supposedly endless flow of random
-variables for well-known or new distributions’ (Robert &amp;
-Casella, 2010: 42). The example shown here is really elementary in
-terms of the distribution and dimensionality of the random variables
-involve, yet it illustrates a general practice underpinning the MCMC
-technique: the reshaping of the ‘supposedly endless flow of random
-variables’ to produce known or new distributions that map
-increasingly convoluted volumes and more intricately distributed
-events.</p>
-<h4 class="section-western"><a name="the-path-precedes-the-topography"></a>
-The path precedes the topography</h4>
-<p align="center" style="margin-bottom: 0cm; line-height: 100%"><code class="western">Figure
-4: Figure_4.tiff</code></p>
-<p align="center" style="margin-top: 0.42cm; margin-bottom: 0.42cm; line-height: 100%">
-<code class="western">Figure 4: Metropolis-Hastings
-algorithm-generated normal distribution</code></p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-In Figure 4, the density of a volume generated by many random numbers
-(shown on the right as a cloud of points) contrasts with the
-meandering itinerary of the line on the left. The former plots the
-now familiar bi-variate normal distribution while latter shows the
-path taken by the MCMC algorithm as it <em>generates</em> this
-volume. The path replaces the global analytical solution, the <em>apriori</em>
-analysis or indeed any simply numerical calculation that estimates
-properties of the volume or surface. Rather, and this difference
-matters quite a lot, the path constructs the volume as it maps it.
-The plot on the left precedes the plot on the right, which is
-effectively a simulated probability distribution derived from the
-path. Note too that the path shows only a small selection of the many
-moves made by the algorithm (approximately 100 of the 40,000 steps).</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%"><a name="fnref4"></a>
-What form of rule regulates the itinerary of this path? ‘Consider
-the Markov chain defined by <em>X</em><em><sup>t</sup></em><sup> + 1</sup> = <em>σX</em><em><sup>t</sup></em> + <em>ϵ</em>(<em>t</em>)
-where <em>ϵ</em>(<em>t</em>)&nbsp;?(0, 1)’, write Robert &amp;
-Casella (Robert &amp; Casella, 2010: 169). [TBA - check this
-expression] The Markov chain – the first MC in MCMC – knows
-nothing of the normal distribution, yet simulates it by using a flow
-of random numbers to construct random variables, and then using
-another stream of random numbers to nudge that random variable into a
-particular shape. The idea of using a ‘random walk’ to explore
-the folds of a volume dates back to the work of physicists Nicholas
-Metropolis and Stanislaw Ulam in the late 1940’s modellings
-particles in nuclear reactions (Metropolis, 1949).<a href=""><sup>4</sup></a>
-Purely randomly sampled points are just as likely to lie in low
-probability regions (valleys and plains) as in the high probability
-peaks. Metropolis proposed a move which becomes the modus operandi of
-subsequent MCMC work (and hence justifies the high citation count):
-‘we place the N particles in any configuration … then we move
-each of particles in succession’ (1088). As well as generating a
-sample of random numbers that represent particles in a systems, they
-submit each simulated particle to a test. Physically, the image here
-is that they displace each particle by a small random amount
-sideways. Having moved the particle/variable, they calculate the
-resulting slight change in the overall system state, and then decide
-whether that particular move puts the system in a more or less
-probable state. If that state is more likely, there is some
-probability that the move is allowed; otherwise the particle goes
-back to where it was. Having carried out this process of small moves
-for all the particles, they can calculate the overall system state or
-property. The process of randomly displacing the particles by a small
-amount, and always moving to the more probable states, effectively
-maps the possibly bumpy terrain of the joint probability density. In
-many minute moves, the simulation begins to steer the randomly
-generated values points towards the peaks that represent interesting
-high-valued features on the surface.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-In contemporary MCMC, the folds and contours mapped by the Markov
-Chains are no longer particles in physical systems but random
-variables with irregular probability distributions. But the
-connection between iteration and itinerary holds form. By generating
-many itineraries, a topography begins to take shape and appear. The
-computationally intensive character of MCMC arises from the iteration
-needed to construct many random walks across an uneven surface in
-order to ensure that all of its interesting features have been
-visited. As we saw in Figure , the surface appears by virtue of the
-Markov chain paths that traverse it.</p>
-<h4 class="section-western"><a name="conclusion"></a>Conclusion</h4>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-What in the re-distribution of events and beliefs in the world, the
-random variables as distributive individuals, or the paths that
-precede the terrain they traverse helps us make sense of what was
-happening each night in the Obama election team, or each time players
-are matched in Microsoft’s XBox-live player matching system, or in
-the epidemiological models of public health authorities forecasting
-influenza prevalence (Birrell, Ketsetzis, Gay, et al., 2011), or for
-that matter, in the topic models that have recently attracted the
-interest of humanities and social science researchers sifting through
-large numbers of documents (Mohr &amp; Bogdanov, 2013)? I have been
-suggesting that in all these settings, and perhaps generalized across
-them, a re-distribution of number is occurring. In this
-re-distribution, probabilities no longer simply normalise individuals
-and groups in partitioned spaces and ranked orders (Foucault, 1977),
-as they might have in a 19-20th century statistical treatments of
-populations. What might be surfacing in somewhat opaque and densely
-convoluted forms such as MCMC is a post-demographic rendering of a
-world in which individuals become something like joint distributions.
-It is likely that these joint distributions, and their effects on the
-chances of donating or voting that were the target of the Obama data
-analytics team’s night modelling efforts.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-This is not to say that a world is clearly and distinctly expressed
-in these techniques. Against the common tendency to see probability
-as split between two main interpretations, the aleatory and the
-epistemic, the frequencies-of-events versus the degrees-of-belief, we
-see their convoluted embrace in techniques such as MCMC. In this
-setting neither the objectivist (frequentists) or subjectivist
-(Bayesian) interpretations of probability work well. For the
-objectivist interpretations of probability, MCMC presents the
-difficulty that all parts of the statistical model potentially become
-random variables or probability distributions, including the
-parameters of the statistical model itself. For the subjective
-interpretations, while MCMC means that all parameters can become
-random variables, these variables only become available for belief
-via the long chains of numbers that arise in the computations,
-gradually converging towards the central tendencies or significant
-features we see in the contour plots. From the post-demographic
-perspective, both interpretations miss the re-distribution of
-probability as randomly generated but topographically smooth surfaces
-whose many dimensions support complicated conjunctions of events.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-What we might instead see in MCMC and similar techniques is a
-re-distribution of chance, a re-figuration of the chance tamed during
-the last few centuries in the development of concepts of probability
-and then the techniques of statistics with their reliance on
-controlled randomness. In these techniques, randomness is again
-re-distributed in the world. This happens materially in the sense
-that computational machinery generate long converging series of
-random numbers in order to map the curved topography of the joint
-probability distributions. But it also happens more generally as a
-staging of events. Many of Gilles Deleuze’s articulations of a
-Baroque sensibility take the form of curves. He describes, for
-instance, the world as ‘the infinite curve that touches at an
-infinity of points an infinity of curves, the curve with a unique
-variable, the convergent series of all series’ (Deleuze, 1993: 24).
-In Deleuze’s account, curves act as causes: ‘the presence of a
-curved element acts as a cause’ (Deleuze, 1993: 17). This claim
-begins to make more sense as we see the curved surfaces of joint
-probability distributions acting as the operational or control points
-in so many practical settings (asthma studies, multi-player game
-coordination, epidemiological modelling, spam filtering,etc.). The
-particles, maps, images and populations figure in a Baroque
-sensibility as curves that fold between outside and inside, creating
-partitions, relative interiorities and exteriorities.</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-Where are we in the folded volumes that result from this distributive
-treatment of numbers? Sensations of change, movement, texture and
-increasingly of something happening is attributable to distributive
-numbers. These machineries stage new convergences between numbers
-coming from the world, numbers coming from belief or subjects, and
-numbers that lie somewhere between the world and knowing subject. I
-suggested above that we might need to re-conceptualise individuals
-less as the product of biopolitical normalisation and more as a mode
-of including the world. To the extent that we monadically include the
-world in such stagings, to the extent that we become are the most
-simple, individual distributive numbers,</p>
-<p align="justify" style="margin-left: 0.7cm; margin-top: 0.18cm; margin-bottom: 0.18cm; line-height: 100%">
-<br/>
-1/∞</p>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%">
-numbers that can only be integrated in simulated surfaces and
-volumes, then events or what happens are assigned according to the
-distributive numbers and their curves. What would it mean to be aware
-of those curves, to have a sense of the joint probability
-distributions that subtly shape the public health initiatives, the
-phone calls or advertisements we receive from a marketing drive, or
-the price of a product? If normalization and its statistical
-techniques sought to strategically manage human multiplicities, to
-what end do the re-distributive numbers we have been discussing tend?
-The task here, it seems to me, is to identify in the joint
-probability distributions what is put together, and how assigning
-numbers to events changes in the light of this joining or
-concatenating of curves with each on folded surfaces. There is a kind
-of generativity here, since the demographic categories and rankings
-shift and blur amidst on a more differentiated yet integrated or
-connective surface.</p>
-<h4 class="section-western"><a name="references"></a>References</h4>
-<p lang="en-AU" class="western">Amoore L (2009) Lines of sight: On
-the visualization of unknown futures. <em>Citizenship Studies</em>,
-13(1), 17–30, Available from:
-<a href="http://search.ebscohost.com/login.aspx?direct=true%5C&amp;db=a9h%5C&amp;AN=36353240%5C&amp;site=ehost-live">http://search.ebscohost.com/login.aspx?direct=true\&amp;db=a9h\&amp;AN=36353240\&amp;site=ehost-live</a>
-(accessed 19 May 2010).</p>
-<p lang="en-AU" class="western">Andrieu C, De Freitas N, Doucet A, et
-al. (2003) An introduction to MCMC for machine learning. <em>Machine
-learning</em>, 50(1), 5–43.</p>
-<p lang="en-AU" class="western">Besag J (1974) Spatial interaction
-and the statistical analysis of lattice systems. <em>Journal of the
-Royal Statistical Society. Series B (Methodological)</em>, 192–236.</p>
-<p lang="en-AU" class="western">Birrell PJ, Ketsetzis G, Gay NJ, et
-al. (2011) Bayesian modeling to unmask and predict influenza
-a/H1N1pdm dynamics in london. <em>Proceedings of the National Academy
-of Sciences</em>, 108(45), 18238–18243, Available from:
-<a href="http://www.pnas.org/content/108/45/18238.abstract">http://www.pnas.org/content/108/45/18238.abstract</a>
-(accessed 14 November 2011).</p>
-<p lang="en-AU" class="western">Daston L (1994) How probabilities
-came to be objective and subjective. <em>Historia mathematica</em>,
-21(3), 330–344.</p>
-<p lang="en-AU" class="western">Deleuze G (1993) <em>The fold :
-Leibniz and the baroque</em>. London, Athlone Press.</p>
-<p lang="en-AU" class="western">Dempster AP, Laird NM and Rubin DB
-(1977) Maximum likelihood from incomplete data via the EM algorithm.
-<em>Journal of the Royal Statistical Society. Series B
-(Methodological)</em>, 39(1), 1–38.</p>
-<p lang="en-AU" class="western">Edwards PN (1996) <em>The closed
-world : Computers and the politics of discourse in cold war</em>.
-Inside technology, Cambridge, Mass. ; London, MIT Press.</p>
-<p lang="en-AU" class="western">Efron B (1975) The efficiency of
-logistic regression compared to normal discriminant analysis. <em>Journal
-of the American Statistical Association</em>, 70(352), 892–898,
-Available from:
-<a href="http://www.jstor.org.ezproxy.lancs.ac.uk/stable/2285453">http://www.jstor.org.ezproxy.lancs.ac.uk/stable/2285453</a>
-(accessed 24 January 2015).</p>
-<p lang="en-AU" class="western">Foucault M (1977) <em>Discipline and
-punish: The birth of the prison</em>. New York, Vintage.</p>
-<p lang="en-AU" class="western">Gelfand AE and Smith AFM (1990)
-Sampling-based approaches to calculating marginal densities. <em>Journal
-of the American Statistical Association</em>, 85(410), 398–409,
-Available from:
-<a href="http://www.jstor.org.ezproxy.lancs.ac.uk/stable/2289776">http://www.jstor.org.ezproxy.lancs.ac.uk/stable/2289776</a>
-(accessed 14 January 2011).</p>
-<p lang="en-AU" class="western">Gelman A, Carlin JB, Stern HS, et al.
-(2003) <em>Bayesian Data Analysis, Second Edition</em>. 2nd ed.
-Chapman and Hall/CRC.</p>
-<p lang="en-AU" class="western">Geman S and Geman D (1984) Stochastic
-relaxation, gibbs distributions, and the bayesian restoration of
-images. <em>Pattern Analysis and Machine Intelligence, IEEE
-Transactions on</em>, (6), 721–741.</p>
-<p lang="en-AU" class="western">Gill J (2011) Introduction to the
-virtual issue: Bayesian methods in political science.</p>
-<p lang="en-AU" class="western">Hacking I (1975) <em>The emergence of
-probability</em>. Cambridge ; New York, Cambridge University Press.</p>
-<p lang="en-AU" class="western">Hacking I (1990) <em>The taming of
-chance</em>. Cambridge University Press.</p>
-<p lang="en-AU" class="western">Hastings W (1970) Monte carlo
-sampling methods using markov chains and their applications.
-<em>Biometrika</em>, 57(1), 97–109.</p>
-<p lang="en-AU" class="western">Issenberg S (2012) The definitive
-story of how president obama mined voter data to win a second term |
-MIT technology review. MIT technology review. Available from:
-<a href="http://www.technologyreview.com/featuredstory/509026/how-obamas-team-used-big-data-to-rally-voters/">http://www.technologyreview.com/featuredstory/509026/how-obamas-team-used-big-data-to-rally-voters/</a>
-(accessed 9 January 2013).</p>
-<p lang="en-AU" class="western">Knorr-Cetina K and Bruegger U (2002)
-Traders’ engagement with markets. a postsocial relationship.
-<em>Theory, Culture and Society</em>, 19(5/6), 161–185.</p>
-<p lang="en-AU" class="western">Lunn D, Thomas A, Best N, et al.
-(2000) WinBUGS-a bayesian modelling framework: Concepts, structure,
-and extensibility. <em>Statistics and Computing</em>, 10(4), 325–337.</p>
-<p lang="en-AU" class="western">Mcgrayne SB (2011) <em>The theory
-that would not die: How bayes’ rule cracked the enigma code, hunted
-down russian submarines, and emerged triumphant from two centuries of
-controversy</em>. New Haven, CT, Yale University Press.</p>
-<p lang="en-AU" class="western">Metropolis N (1949) The monte carlo
-method. <em>Journal of the American Statistical Association</em>, 44,
-335–341.</p>
-<p lang="en-AU" class="western">Metropolis N, Rosenbluth AW,
-Rosenbluth MN, et al. (1953) Equation of state calculations by fast
-computing machines. <em>The journal of chemical physics</em>, 21,
-1087, Available from: <a href="http://link.aip.org/link/%5C%3FJCPSA6/21/1087/1">http://link.aip.org/link/\%3FJCPSA6/21/1087/1</a>
-(accessed 10 October 2012).</p>
-<p lang="en-AU" class="western">Mohr JW and Bogdanov P (2013)
-Introduction—Topic models: What they are and why they matter.
-<em>Poetics</em>, 41(6), 545–569, Available from:
-<a href="http://www.sciencedirect.com/science/article/pii/S0304422X13000685">http://www.sciencedirect.com/science/article/pii/S0304422X13000685</a>
-(accessed 16 December 2013).</p>
-<p lang="en-AU" class="western">Porter TM (1996) <em>Trust in
-numbers: The pursuit of objectivity in science and public life</em>.
-Princeton Univ Pr.</p>
-<p lang="en-AU" class="western">Robert C and Casella G (2008) A
-history of markov chain monte carlo-subjective recollections from
-incomplete data. <em>0808.2902</em>, Available from:
-<a href="http://arxiv.org/abs/0808.2902">http://arxiv.org/abs/0808.2902</a>
-(accessed 1 January 2011).</p>
-<p lang="en-AU" class="western">Robert CP and Casella G (2010)
-<em>Introducing monte carlo methods with r</em>. New York, Springer.</p>
-<p lang="en-AU" class="western">Scherer M (2012) How obama’s data
-crunchers helped him win - CNN.com. CNN. Available from:
-<a href="http://www.cnn.com/2012/11/07/tech/web/obama-campaign-tech-team/index.html">http://www.cnn.com/2012/11/07/tech/web/obama-campaign-tech-team/index.html</a>
-(accessed 20 November 2012).</p>
-<p lang="en-AU" class="western">Simpson A, Tan VYF, Winn J, et al.
-(2010) Beyond atopy: multiple patterns of sensitization in relation
-to asthma in a birth cohort study. <em>American Journal of
-Respiratory and Critical Care Medicine</em>, 181(11), 1200–1206,
-Available from: <a href="http://www.ncbi.nlm.nih.gov/pubmed/20167852">http://www.ncbi.nlm.nih.gov/pubmed/20167852</a>
-(accessed 16 May 2011).</p>
-<p lang="en-AU" class="western">Stigler SM (1986) <em>The history of
-statistics: The measurement of uncertainty before 1900</em>.
-Cambridge, Mass., Harvard University Press.</p>
-<p lang="en-AU" class="western">Suess EA and Trumbo BE (2010)
-<em>Introduction to probability simulation and gibbs sampling with r</em>.
-1st Edition. New York, Springer.</p>
-<p lang="en-AU" class="western">Wasserman L (2003) <em>All of
-statistics: A concise course in statistical inference</em>. New York,
-Springer.</p>
-<hr/>
+<h1 id="distributive-numbers-a-post-demographic-perspective-on-probability">Distributive numbers: a post-demographic perspective on probability</h1>
+<p>Adrian Mackenzie,</p>
+<p>Sociology, Lancaster University</p>
+<p>Bailrigg, LA14YL, UK</p>
+<p>a.mackenzie@lancaster.ac.uk</p>
+<h2 id="introduction">Introduction</h2>
+<blockquote>
+<p>“We ran the election 66,000 times every night,” said a senior official, describing the computer simulations the campaign ran to figure out Obama’s odds of winning each swing state. “And every morning we got the spit-out — here are your chances of winning these states. And that is how we allocated resources.” <span class="citation">(Scherer, 2012)</span></p>
+</blockquote>
+<p>In the US Presidential elections of November 2012, the data analysis team supporting the re-election of Barack Obama were said to be running a statistical model of the election 66,000 times every night <span class="citation">(Scherer, 2012)</span>. Their model, relying on polling data, records of past voting behaviour, and many other databases, was guiding tactical decisions about everything from where the presidential candidate would speak, where advertising money would be spent, to the telephone calls that targeted individual citizens (for donations or their vote). Widely reported in television news and internationally in print media (<em>Time</em>, <em>New York Times</em>, <em>The Observer</em>), the outstanding feature of Obama’s re-election seems to me to be the figure of 66,000 nightly model runs. Why so many thousand runs? This question was not addressed in the media reports, nor surprisingly, addressed in the online discussion on blogs and other online forums that followed. A glimmering of an answer appears in more extended accounts of the Obama data analytics efforts <span class="citation">(Issenberg, 2012)</span> that describe how, in contrast to the much smaller and traditional market research-based targeting of demographic groups used by the Republican campaign for Mitt Romney, the Obama re-election campaign focused on knowing, analysing and predicting what <em>individuals</em> would do in the election. We should note that the Obama data team’s efforts are not unique or singular. In very many settings – online gaming, epidemiology, fisheries management, and asthma management <span class="citation">(Simpson, Tan, Winn, et al., 2010)</span>, similar conjunctions appear. In post-demographic understandings of data, individuals appear not simply as members of a population (although they certainly do that), but as themselves a kind of joint probability distribution at the conjunction of many different numbering practices. If once individuals were collected, grouped, ranked and trained in populations characterised by disparate attributes (life expectancies, socio-economic variables, educational development,etc.), today, we might say, they are distributed across populations of different kinds that intersect through them. Individuals become more like populations or crowds. This chapter seeks to describe, therefore, a shift in what numbers do in their post-demographic modes of existence.</p>
+<h2 id="pra-events-and-beliefs-in-the-world"><span class="math"><em>P</em><em>r</em>(<em>A</em>)</span>: events and beliefs in the world</h2>
+<p>How can individuals appear as populations? A standard textbook of statistics introduces the idea of probability as event-related number in this way:</p>
+<blockquote>
+<p>We will assign a real number <span class="math"><em>P</em><em>r</em>(<em>A</em>)</span> to every event <span class="math"><em>A</em></span>, called the <strong>probability</strong> of <span class="math"><em>A</em></span> <span class="citation">(Wasserman, 2003: 3)</span></p>
+</blockquote>
+<p>Note that this number is ‘real’, so it can take infinitely many values between 0 and 1. The number concerns ‘events’, where events are understood as subsets of all the possible outcomes in a given ‘sample space’ (‘the <strong>sample space</strong> <span class="math">Ω</span> is the set of possible outcomes of an experiment. … Subsets of <span class="math">Ω</span> are called <strong>Events</strong>’ <span class="citation">(Wasserman, 2003: 3)</span>). The number assigned to events can be understood in two main ways. Wasserman goes on to say:</p>
+<blockquote>
+<p>There are many interpretations of <span class="math"><em>P</em><em>r</em>(<em>A</em>)</span>. The common interpretations are frequencies and degrees of belief. … The difference in interpretation will not matter much until we deal with statistical inference. There the differing interpretations lead to two schools of inference: the frequentists and Bayesian schools <span class="citation">(Wasserman, 2003: 6)</span>.</p>
+</blockquote>
+<p>The difference will only matter, suggests Wasserman, in relation to the style of statistical inference. Even apart from these relatively well-known alternate interpretations of probability, the practice of assigning numbers to events in <span class="math">Ω</span> does not, I will suggest, remain stable. If we keep an eye on the machinery that assigns numbers, then we might have a better sense of how events and beliefs themselves might change shape.</p>
+<p>Summarising his own account of the emergence of probability, the philosopher and historian Ian Hacking highlights the long-standing interplay of the two common interpretations of probability as frequencies and degrees of belief:</p>
+<blockquote>
+<p>I claimed in <em>The Emergence of Probability</em> that our idea of probability is a Janus-faced mid-seventeenth-century mutation in the Renaissance idea of signs. It came into being with a frequency aspect and a degree-of-belief aspect <span class="citation">(Hacking, 1990: 96)</span>.</p>
+</blockquote>
+<p>In the work from 1975, Hacking, writing largely ahead of the marked shifts in probability practice I discuss, claims that there was no probability prior to 1660 <span class="citation">(Hacking, 1975)</span>. As we can verify in the statistics textbooks, there is nothing controversial in Hacking’s claim that probability is Janus-faced. Historian of statistics and statisticians themselves regularly describe about probability as bifurcated in the same way. Statisticians commonly contrast the frequentist and degree-of-belief, the <em>aleatory</em> and the <em>epistemic</em>, views of probability. Although the history of statistics shows various distributions and permutations of emphasis on the subjective and objective versions of probability, statisticians are now relatively happily normalised around a divided view of probability.</p>
+<p>Contemporary probability, however, has become entwined with a particular mode of computational machinery – and here we might think of machinery as something like Baroque theatre machinery, with its interest in the production of effects and appearances that are never fully naturalised – that deeply convolutes the difference between the epistemic and aleatory faces of probability. Not only is probability a Baroque invention, the fundamental instability that permits recent mutations in probability practice has a distinctively Baroque flavour in the way that it combines something happening in the world with something that pertains to subjects. The techniques involved here include the bootstrap <span class="citation">(Efron, 1975)</span>, expectation-maximisation <span class="citation">(Dempster, Laird &amp; Rubin, 1977)</span>, and Markov-Chain Monte Carlo <span class="citation">(Gelfand &amp; Smith, 1990)</span>. These techniques support increasingly post-demographic treatments of individuals, in which for instance, individuals increasingly attract probability distributions, as in Obama’s data-intensive re-election campaign.<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> In examining a salient contemporary treatment of probability, my concern is the problem of invention of forms of thought able to critically affirm mutations in probability today. These mutations arise, I suggest, in many, perhaps all, contemporary settings where populations, events, individuals, numbers and calculation are to be found. In such settings, a Baroque sense of the enfolding of inside and outside, of belief and events, of approximation and exactitudes offers at least tentative pointers to a different way of describing what is happening as aleatory and the epistemic senses of probability find themselves re-distributed.</p>
+<h2 id="exact-means-simulated">Exact means simulated</h2>
 
+<p>The contour plot in Figure  was generated by the widely used statistical simulation technique called MCMC – Markov Chain Monte Carlo simulation. MCMC has greatly transformed much statistical practices since the early 1990’s. The diagram shows the contours of a distribution (a bivariate normal distribution in this case) generated by MCMC that fits a mixture of two normally-distributed sets of numbers to some data. The topography of this diagram is the product of a simulation of specific kinds of numbers, in this case, the mean values of two normal distributions. The contour lines trace the different values of the means (<span class="math"><em>μ</em><sub>1</sub>, <em>μ</em><sub>2</sub></span>) of the variables. For the time being, we need know nothing about what such peaks refer to, apart from the fact they are something to do with probability, with assigning numbers to events. A set of connected points starting on the side of the one of the peaks and clustering on the peak mark the traces of the itinerary of the MCMC algorithm as it explores the topography in search of peaks that represent more likely events or beliefs. Importantly for present purposes, this path comprises 60,000 steps (that is, a around the same number mentioned by Obama’s data team).</p>
+<p>When ‘Sampling-Based Approaches to Calculating Marginal Densities,’ the article that first announced the arrival of MCMC in statistical practice <span class="citation">(Robert &amp; Casella, 2010: 9)</span> appeared in <em>Journal of the American Statistical Association</em> in 1990 <span class="citation">(Gelfand &amp; Smith, 1990)</span>, the statisticians Alan Gelfand and Adrian Smith (subsequently Director General of Science and Research in UK government’s Department for Innovation, Universities and Skills) stated that the problem they were addressing was how ‘to obtain numerical estimates of non-analytically available marginal densities of some or all [the collection of random variables] simply by means of simulated samples from available conditional distributions, and without recourse to sophisticated numerical analytic methods’ (398). Their formulation emphasises the mixture of using things that are accessible – simulated samples – to explore things that are not directly accessible – ‘non-analytically available marginal densities … of random variables’ (some of this probability terminology will be explored below). For present purposes, the important point is a newly non-analytical probability is in formation here. It lies at some distance from the classical probability calculus first developed in the 17th century around games of chance, mortality statistics and the like.</p>
+<p>Note that these statisticians are not announcing the invention of a new technique. They explicitly take up the already existing Gibbs sampler algorithm for image-processing, as described in <span class="citation">(Geman &amp; Geman, 1984)</span>, investigate some of its formal properties (convergence), and then set out a number of mainstream statistical problems that could be done differently using MCMC and the Gibbs sampler in particular. They show how MCMC facilitates Bayesian statistical inference – the approach to statistics that shapes basic parameters in the light of previous experience - by re-configuring six illustrative mainstream statistical examples: multinomial models, hierarchical models, multivariate normal sampling, variance components, and the k-group normal means model. The illustrations in the paper suggest how previously difficult problems of statistical inference can be carried out by sampling simulations. As they state in another paper from the same year, ‘the potential of the methodology is enormous, rendering straightforward the analysis of a number of problems hitherto regarded as intractable’ <span class="citation">(Gelfand &amp; Smith, 1990: 984)</span>.<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></p>
+<p>Note too that while the MCMC technique has become important in contemporary statistics, and especially in Bayesian statistics <span class="citation">(Gelman, Carlin, Stern, et al., 2003)</span>, it plays significant roles in applications such as image, speech and audio processing, computer vision, computer graphics, molecular biology and genomics, robotics, decision theory and information retrieval <span class="citation">(Andrieu, De Freitas, Doucet, et al., 2003: 37–38)</span>. Usually called an <em>algorithm</em> – a series of precise operations that transform or reshape data – MCMC has been called one of ‘the ten most influential algorithms’ in twentieth century science and engineering <span class="citation">(Andrieu, De Freitas, Doucet, et al., 2003: 5)</span>.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a> But MCMC is not really an algorithm, or at least, if it is, it is an algorithm subject to substantially different algorithmic implementations (for instance, Metropolis-Hastings and Gibbs Sampler are two popular implementations). In all of these settings, MCMC is a way of simulating a sample of points distributed on a complicated curve or surface (see Figure ). The MCMC technique addresses the problem of how to explore and map very uneven or folded distributions of numbers. It is a way of navigating areas or volumes whose curves, convolutions and hidden recesses elude geometrical spaces and perspectival vision. Accounts of MCMC emphasise the ‘high-dimensional’ spaces in which the algorithm works: ‘there are several high-dimensional problems, such as computing the volume of a convex body in <em>d</em> dimensions, for which MCMC simulation is the only known general approach for providing a solution within a reasonable time’ <span class="citation">(Andrieu, De Freitas, Doucet, et al., 2003: 5)</span>. We might say that MCMC alongside other statistical algorithms such as the bootstrap or EM increasingly facilitates the envisioning of high-dimensional, convoluted data spaces. Simulating the distribution of numbers over folded surfaces, MCMC renders the areas and volumes of folds more amenable to calculation.</p>
+<p>What MCMC adds to the world is subtle yet indicative. In their history of the technique, Christian Robert and George Casella, two leading statisticians specializing in MCMC, write that ‘Markov chain Monte Carlo changed our emphasis from “closed form” solutions to algorithms, expanded our impact to solving “real” applied problems and to improving numerical algorithms using statistical ideas, and led us into a world where “exact” now means “simulated”’ <span class="citation">(Robert &amp; Casella, 2008: 18)</span>. This shift from ‘closed form’ solution to algorithms and to a world where ‘exact means simulated’ might be all too easily framed by a post-modern sensibility as another example of the primacy of the simulacra over the original. But here, a Baroque sensibility, awake to the convolution of objective-event and subjective-event senses of probability, might allow us to approach MCMC less in terms of a crisis of referentiality, and more in terms of the emergence of a new form of distributive number.</p>
+<p>How so? The contours of Figure  define a volume. In its typical usages, the somewhat complicated shape of this volume typically equates to the joint probability of multiple random variables. MCMC, put in terms of the minimal formal textbook definition of probability is a way of assigning real numbers to events, but according to a mapping shaped by the convoluted volumes created by joint probability distributions. The identification of <span class="math"><em>P</em><em>r</em>(<em>A</em>)</span> with a convoluted volume offers great potential to statistics. For instance, political scientists regularly use MCMC in their work because their research terrain — elections, opinions, voting patterns — little resembles the image of events projected by mainstream statistics: independent, identically distributed (‘iid’) events staged in experiments. MCMC allows, as the political scientist Jeff Gill observes, all unknown quantities to be ‘treated probabilistically’ <span class="citation">(Gill, 2011: 1)</span>. We can begin to glimpse why the Obama re-election team might have been running their model 66,000 times each night. In short, MCMC allows, at least in principle, <em>every</em> number to be treated as a probability distribution.</p>
+<h2 id="frac1infty-distributed-individuals-as-random-variables"><span class="math">$\frac{1}{\infty}$</span>: distributed individuals as random variables</h2>
+<p>Let us return to the typical problem of the individual voters modelled by the Obama re-election team. Treating every number as a probability distribution involves exteriorising numbers in the service of an interiorising of probability. Techniques of statistical simulation multiply numbers in the world and assign numbers to events, but largely in the service of modifying, limiting, quantifying uncertainties associated with belief. This folding together of subjective and objective, of epistemic and aleatory senses of probability can be thought as a neo-Baroque mode of probability. The Baroque sense of probability, especially as articulated by G.W. Leibniz, the ‘first philosopher of probability’ <span class="citation">(Hacking, 1975: 57)</span>, is helpful in holding together these contrapuntal movements. Leibniz’s famously impossible claim that each monad <em>includes</em> the whole world is, according to Gilles Deleuze, actually a claim about numbers in variation. Through numbers, understood in a somewhat unorthodox way, monads — the parts of the world — can include the whole world. Deleuze says: ‘for Leibniz, the monad is clearly the most “simple” number, that is, the inverse, reciprocal, harmonic number’ <span class="citation">(Deleuze, 1993: 129)</span>.</p>
+<p>Having a world — for the monad is a mode of having a world by including it — as a number entails a very different notion of <em>having</em> and a somewhat different notion of number. The symbolic expression of this inclusion is, according to Deleuze:</p>
+<p><br /><span class="math">$$\frac{1}{\infty}$$</span><br /></p>
+<p>The numerator <span class="math">1</span> points to the singular individual (remember that for Leibniz, every monad is individual), the denominator, <span class="math">∞</span>, suggests a world. The fraction or ratio of 1 to <span class="math">∞</span> tends towards a vanishingly small difference (zero), yet one whose division passes through all numbers (the whole world). In what sense is this fraction, in its convergence towards zero, including a world? Deleuze writes that for in the Baroque, ‘the painting-window [of Renaissance perspective] is replaced by tabulation, the grid on which lines, numbers and changing characters are inscribed. … Leibniz’s monad would be just a such grid’ (27). This suggests a different notion of the subject, no longer the subject of the world-view who sees along straight lines that converge at an infinite distance (the subject as locus of reason, experience or intentionality), but as ‘the truth of a variation’ (20) played out in numbers and characters tabulated on gridded screens. The monad is a grid of numbers and characters in variation. How could we concretise this? Alongside the individual voters modelled by the Obama re-election team, we might think of border control officers viewing numerical, predictions of whether a particular passenger arriving on a flight is likely to present a security risk <span class="citation">(Amoore, 2009)</span>, financial traders viewing changing prices for a currency or financial derivative on their screens <span class="citation">(Knorr-Cetina &amp; Bruegger, 2002)</span>, a genomic researcher deciding whether the alignment scores between two different DNA sequences suggests a phylogenetic relationship, or a player in a large online multi-player games such as World of Warcraft quickly checking the fatigue levels of their character before deciding what to do: these are all typical cases where numbers in long chains of converging variation populate the monadic grid. <span class="math">$\frac{1}{\infty}$</span> entails a significant shift in the understanding of number. Deleuze writes that ‘the inverse number has special traits: … by opposition to the natural number, which is collective, it is individual and distributive’ (129). If numbers become ‘individual and distributive,’ then the calculations that produce them might be important to map in the specificity of their transformations.</p>
+
+<p>Earlier we saw the flat operational definition of probability as assigning real numbers between 0 and 1 to events. By contrast, a random variable ‘is a mapping that assigns a real number to each outcome’ <span class="citation">(Wasserman, 2003: 19)</span>, but this number can vary. If events have probabilities, random variables comprehend a range of outcomes that are mapped to numbers in the form of probability distributions. The practical reality of random variables is variation, variations that are usually take the visual forms of the curves of the probability distributions shown in Figure . These distributions each have their own history (see <span class="citation">(Stigler, 1986)</span> for a detail historical account of key developments), but for our purposes the important points are both historical and philosophical. On the one hand, the historical development of probability distributions, particularly the Gaussian or normal distribution, but also lesser known chi-square, Beta or hypergeometric distributions, displays powerful inversions in which the mapping of numbers to events becomes a mapping of events to numbers. Hacking, for instance, describes how the 19th century statistician Adolphe Quetelet began to treat populations. The normal distribution ‘became a reality underneath the phenomena of consciousness’ <span class="citation">(Hacking, 1990: 205)</span>. A whole set of normalizations, often with strongly biopolitical dynamics hinges on this inversion of the relation between numbers and events in 19th century probability practice.</p>
+
+<p>On the other hand, the regularity, symmetry and above all mathematical expression of these functions in equations such as the one shown in Equation  more or less delimited statistical practice. Such expressions offer great tractability since their shape, area or volume can all be expressed in terms of key tendencies such as <span class="math"><em>μ</em></span>, the mean and <span class="math"><em>σ</em></span>, the variance. The 18th and 19th century development of statistical practice pivots on manipulations that combine or generalize such expressions to an increasing variety of situations. For instance, in Figure , the normal distribution shown in Equation  for one variable <span class="math"><em>x</em></span> becomes a bi-variate normal distribution for two variables <span class="math"><em>x</em><sub>1</sub></span> and <span class="math"><em>x</em><sub>2</sub></span>. Nevertheless, these equations also limit the range of shapes, areas and volumes that statistical practice could map onto events. When statisticians speak of ‘fitting a density’ (a probability distribution) to data, they affirm their commitment to the regular forms of probability distributions.</p>
+<h2 id="the-endless-flow-of-random-variables">The endless flow of random variables</h2>
+<p>Both aspects of this commitment – the curve as underlying reality of events, and the normalized expression of curves in functions whose parameters shape the curve – begin to shift in techniques such as MCMC. In particular, following Deleuze’s discussion of the monad as distributive number, we might say that the probability distributions now function less as the collective form of individuals, and more as the distributive form of individuals across increasingly complex and folded surfaces. We saw above that MCMC inaugurates ‘a world where “exact” now means “simulated”’ <span class="citation">(Robert &amp; Casella, 2008: 18)</span>. This comment links an analytical quality – exactitude – with a calculative, modelling process – simulation. But rather than attesting to the pre-eminence of simulation, we should see techniques such as MCMC as ways of exploring the concavities and convexities, the surfaces and volumes generated by random variables. Put more statistically, MCMC maps the contoured and folded surfaces that arise as flows of data or random variables come together in one joint probability distribution. These surfaces, generated by the combinations of mathematical functions or probability distributions are not easy to see or explore, except in the exceptional cases where calculus can deliver a deductive analytical ‘closed form’ solution to the problems of integration: finding the area and thereby estimating the distribution function for one variable. By contrast, MCMC effectively simulates some important parts of the surface, and in simulating convoluted volumes, loosens the analytical ties that bind probability to certain well-characterised analytical regular forms such as the normal curve. In this simulation of folded and multiplied probability distributions, the lines between objective and subjective, or aleatory and epistemic probability, begin to shift not towards some total computer simulation of reality but towards a re-folding of probability through world and experience. The subjective and the objective undergo an ontological transformation in which calculation lies neither simply on the side of the knowing subject nor inheres in things in the world. These practices perhaps make those boundaries radically convoluted.</p>
+<p><img src="figure/generate_distributions-1.tiff" title="Simulated distributions" alt="Simulated distributions" width=".87\textwidth" style="display: block; margin: auto;" /></p>
+
+<p>Figure  shows two plots. The histogram on the left shows the occurrence 10,000 computer generated random numbers between 0 and 1, and as expected, or hoped, they are more less uniformly distributed between 0 and 1. No single number is much more likely than another. This is simulation of the simplest probability distribution of all, the <em>uniform</em> probability distribution in which all events are equally likely. The uniform distribution could be assigned to a random variable. The plot on the right derives from the same set of 10,000 random numbers, but shows a different probability distribution in which events mapped to numbers close to 0 are much more likely than events close to 1. What has happened here? The reshaping of the flow of numbers depends on a very simple multiplication of the simulated uniform distribution by itself:</p>
+<blockquote>
+<p>A real function of a random variable is another random variable. Random variables with a wide variety of distributions can be obtained by transforming a standard uniform random variable <span class="math"><em>U</em> ≈ <em>U</em><em>N</em><em>I</em><em>F</em>(0, 1)</span> <span class="citation">(Suess &amp; Trumbo, 2010: 32)</span>.</p>
+</blockquote>
+<p>It happens that multiplying the uniform variable by itself (<span class="math"><em>U</em><sup>2</sup></span>) produces an instance of another random variable, now characterised by the <em>Beta</em> distribution, shown on the right of Figure . While generated by the same set of random numbers, this is now a different random variable. It would be possible to produce that curve of a beta distribution analytically, by plotting points generated by the <em>Beta</em> probability density function:</p>
+
+<p>where <span class="math"><em>α</em> = 0.5</span> and <span class="math"><em>β</em> = 1</span> in equation . But in the case of the plots shown on the right of Figure , the random variable has been generated from a flow of random numbers. So, from a flow of random numbers, generated by the computer (using an <em>pseudo-random</em> number generator algorithm), more random variables result, but with different shapes or probability densities. As Robert and Casella write, ‘the point is that a supply of random variables can be used to generate different distributions’ <span class="citation">(Robert &amp; Casella, 2010: 44)</span>. Indeed, this is the principle of all Monte Carlo simulations, methods that ‘rely on the possibility of producing (with a computer) a supposedly endless flow of random variables for well-known or new distributions’ <span class="citation">(Robert &amp; Casella, 2010: 42)</span>. The example shown here is really elementary in terms of the distribution and dimensionality of the random variables involve, yet it illustrates a general practice underpinning the MCMC technique: the reshaping of the ‘supposedly endless flow of random variables’ to produce known or new distributions that map increasingly convoluted volumes and more intricately distributed events.</p>
+<h2 id="the-path-precedes-the-topography">The path precedes the topography</h2>
+<pre><code>[1] -0.0348 -0.0354  0.9966  0.9992  0.7994</code></pre>
+<pre><code>[1] 0.4316216</code></pre>
+<pre><code>[1] 0.14725</code></pre>
+
+<p>In Figure , the density of a volume generated by many random numbers (shown on the right as a cloud of points) contrasts with the meandering itinerary of the line on the left. The former plots the now familiar bi-variate normal distribution while latter shows the path taken by the MCMC algorithm as it <em>generates</em> this volume. The path replaces the global analytical solution, the <em>apriori</em> analysis or indeed any simply numerical calculation that estimates properties of the volume or surface. Rather, and this difference matters quite a lot, the path constructs the volume as it maps it. The plot on the left precedes the plot on the right, which is effectively a simulated probability distribution derived from the path. Note too that the path shows only a small selection of the many moves made by the algorithm (approximately 100 of the 40,000 steps).</p>
+<p>What form of rule regulates the itinerary of this path? ‘Consider the Markov chain defined by <span class="math"><em>X</em><sup><em>t</em> + 1</sup> = <em>σ</em><em>X</em><sup><em>t</em></sup> + <em>ϵ</em>(<em>t</em>)</span> where <span class="math"><em>ϵ</em>(<em>t</em>) 𝒰(0, 1)</span>’, write Robert &amp; Casella <span class="citation">(Robert &amp; Casella, 2010: 169)</span>. [TBA - check this expression] The Markov chain – the first MC in MCMC – knows nothing of the normal distribution, yet simulates it by using a flow of random numbers to construct random variables, and then using another stream of random numbers to nudge that random variable into a particular shape. The idea of using a ‘random walk’ to explore the folds of a volume dates back to the work of physicists Nicholas Metropolis and Stanislaw Ulam in the late 1940’s modellings particles in nuclear reactions <span class="citation">(Metropolis, 1949)</span>.<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a> Purely randomly sampled points are just as likely to lie in low probability regions (valleys and plains) as in the high probability peaks. Metropolis proposed a move which becomes the modus operandi of subsequent MCMC work (and hence justifies the high citation count): ‘we place the N particles in any configuration … then we move each of particles in succession’ (1088). As well as generating a sample of random numbers that represent particles in a systems, they submit each simulated particle to a test. Physically, the image here is that they displace each particle by a small random amount sideways. Having moved the particle/variable, they calculate the resulting slight change in the overall system state, and then decide whether that particular move puts the system in a more or less probable state. If that state is more likely, there is some probability that the move is allowed; otherwise the particle goes back to where it was. Having carried out this process of small moves for all the particles, they can calculate the overall system state or property. The process of randomly displacing the particles by a small amount, and always moving to the more probable states, effectively maps the possibly bumpy terrain of the joint probability density. In many minute moves, the simulation begins to steer the randomly generated values points towards the peaks that represent interesting high-valued features on the surface.</p>
+<p>In contemporary MCMC, the folds and contours mapped by the Markov Chains are no longer particles in physical systems but random variables with irregular probability distributions. But the connection between iteration and itinerary holds form. By generating many itineraries, a topography begins to take shape and appear. The computationally intensive character of MCMC arises from the iteration needed to construct many random walks across an uneven surface in order to ensure that all of its interesting features have been visited. As we saw in Figure , the surface appears by virtue of the Markov chain paths that traverse it.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>What in the re-distribution of events and beliefs in the world, the random variables as distributive individuals, or the paths that precede the terrain they traverse helps us make sense of what was happening each night in the Obama election team, or each time players are matched in Microsoft’s XBox-live player matching system, or in the epidemiological models of public health authorities forecasting influenza prevalence <span class="citation">(Birrell, Ketsetzis, Gay, et al., 2011)</span>, or for that matter, in the topic models that have recently attracted the interest of humanities and social science researchers sifting through large numbers of documents <span class="citation">(Mohr &amp; Bogdanov, 2013)</span>? I have been suggesting that in all these settings, and perhaps generalized across them, a re-distribution of number is occurring. In this re-distribution, probabilities no longer simply normalise individuals and groups in partitioned spaces and ranked orders <span class="citation">(Foucault, 1977)</span>, as they might have in a 19-20th century statistical treatments of populations. What might be surfacing in somewhat opaque and densely convoluted forms such as MCMC is a post-demographic rendering of a world in which individuals become something like joint distributions. It is likely that these joint distributions, and their effects on the chances of donating or voting that were the target of the Obama data analytics team’s night modelling efforts.</p>
+<p>This is not to say that a world is clearly and distinctly expressed in these techniques. Against the common tendency to see probability as split between two main interpretations, the aleatory and the epistemic, the frequencies-of-events versus the degrees-of-belief, we see their convoluted embrace in techniques such as MCMC. In this setting neither the objectivist (frequentists) or subjectivist (Bayesian) interpretations of probability work well. For the objectivist interpretations of probability, MCMC presents the difficulty that all parts of the statistical model potentially become random variables or probability distributions, including the parameters of the statistical model itself. For the subjective interpretations, while MCMC means that all parameters can become random variables, these variables only become available for belief via the long chains of numbers that arise in the computations, gradually converging towards the central tendencies or significant features we see in the contour plots. From the post-demographic perspective, both interpretations miss the re-distribution of probability as randomly generated but topographically smooth surfaces whose many dimensions support complicated conjunctions of events.</p>
+<p>What we might instead see in MCMC and similar techniques is a re-distribution of chance, a re-figuration of the chance tamed during the last few centuries in the development of concepts of probability and then the techniques of statistics with their reliance on controlled randomness. In these techniques, randomness is again re-distributed in the world. This happens materially in the sense that computational machinery generate long converging series of random numbers in order to map the curved topography of the joint probability distributions. But it also happens more generally as a staging of events. Many of Gilles Deleuze’s articulations of a Baroque sensibility take the form of curves. He describes, for instance, the world as ‘the infinite curve that touches at an infinity of points an infinity of curves, the curve with a unique variable, the convergent series of all series’ <span class="citation">(Deleuze, 1993: 24)</span>. In Deleuze’s account, curves act as causes: ‘the presence of a curved element acts as a cause’ <span class="citation">(Deleuze, 1993: 17)</span>. This claim begins to make more sense as we see the curved surfaces of joint probability distributions acting as the operational or control points in so many practical settings (asthma studies, multi-player game coordination, epidemiological modelling, spam filtering,etc.). The particles, maps, images and populations figure in a Baroque sensibility as curves that fold between outside and inside, creating partitions, relative interiorities and exteriorities.</p>
+<p>Where are we in the folded volumes that result from this distributive treatment of numbers? Sensations of change, movement, texture and increasingly of something happening is attributable to distributive numbers. These machineries stage new convergences between numbers coming from the world, numbers coming from belief or subjects, and numbers that lie somewhere between the world and knowing subject. I suggested above that we might need to re-conceptualise individuals less as the product of biopolitical normalisation and more as a mode of including the world. To the extent that we monadically include the world in such stagings, to the extent that we become are the most simple, individual distributive numbers,</p>
+<blockquote>
+<p><br /><span class="math">$$\frac{1}{\infty}$$</span><br /></p>
+</blockquote>
+<p>numbers that can only be integrated in simulated surfaces and volumes, then events or what happens are assigned according to the distributive numbers and their curves. What would it mean to be aware of those curves, to have a sense of the joint probability distributions that subtly shape the public health initiatives, the phone calls or advertisements we receive from a marketing drive, or the price of a product? If normalization and its statistical techniques sought to strategically manage human multiplicities, to what end do the re-distributive numbers we have been discussing tend? The task here, it seems to me, is to identify in the joint probability distributions what is put together, and how assigning numbers to events changes in the light of this joining or concatenating of curves with each on folded surfaces. There is a kind of generativity here, since the demographic categories and rankings shift and blur amidst on a more differentiated yet integrated or connective surface.</p>
+<div class="references">
+<h2 id="references" class="unnumbered">References</h2>
+<p>Amoore L (2009) Lines of sight: On the visualization of unknown futures. <em>Citizenship Studies</em>, 13(1), 17–30, Available from: <a href="http://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=36353240&amp;site=ehost-live" class="uri">http://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=36353240&amp;site=ehost-live</a> (accessed 19 May 2010).</p>
+<p>Andrieu C, De Freitas N, Doucet A, et al. (2003) An introduction to MCMC for machine learning. <em>Machine learning</em>, 50(1), 5–43.</p>
+<p>Besag J (1974) Spatial interaction and the statistical analysis of lattice systems. <em>Journal of the Royal Statistical Society. Series B (Methodological)</em>, 192–236.</p>
+<p>Birrell PJ, Ketsetzis G, Gay NJ, et al. (2011) Bayesian modeling to unmask and predict influenza a/H1N1pdm dynamics in london. <em>Proceedings of the National Academy of Sciences</em>, 108(45), 18238–18243, Available from: <a href="http://www.pnas.org/content/108/45/18238.abstract" class="uri">http://www.pnas.org/content/108/45/18238.abstract</a> (accessed 14 November 2011).</p>
+<p>Daston L (1994) How probabilities came to be objective and subjective. <em>Historia mathematica</em>, 21(3), 330–344.</p>
+<p>Deleuze G (1993) <em>The fold : Leibniz and the baroque</em>. London, Athlone Press.</p>
+<p>Dempster AP, Laird NM and Rubin DB (1977) Maximum likelihood from incomplete data via the EM algorithm. <em>Journal of the Royal Statistical Society. Series B (Methodological)</em>, 39(1), 1–38.</p>
+<p>Edwards PN (1996) <em>The closed world : Computers and the politics of discourse in cold war</em>. Inside technology, Cambridge, Mass. ; London, MIT Press.</p>
+<p>Efron B (1975) The efficiency of logistic regression compared to normal discriminant analysis. <em>Journal of the American Statistical Association</em>, 70(352), 892–898, Available from: <a href="http://www.jstor.org.ezproxy.lancs.ac.uk/stable/2285453" class="uri">http://www.jstor.org.ezproxy.lancs.ac.uk/stable/2285453</a> (accessed 24 January 2015).</p>
+<p>Foucault M (1977) <em>Discipline and punish: The birth of the prison</em>. New York, Vintage.</p>
+<p>Gelfand AE and Smith AFM (1990) Sampling-based approaches to calculating marginal densities. <em>Journal of the American Statistical Association</em>, 85(410), 398–409, Available from: <a href="http://www.jstor.org.ezproxy.lancs.ac.uk/stable/2289776" class="uri">http://www.jstor.org.ezproxy.lancs.ac.uk/stable/2289776</a> (accessed 14 January 2011).</p>
+<p>Gelman A, Carlin JB, Stern HS, et al. (2003) <em>Bayesian Data Analysis, Second Edition</em>. 2nd ed. Chapman and Hall/CRC.</p>
+<p>Geman S and Geman D (1984) Stochastic relaxation, gibbs distributions, and the bayesian restoration of images. <em>Pattern Analysis and Machine Intelligence, IEEE Transactions on</em>, (6), 721–741.</p>
+<p>Gill J (2011) Introduction to the virtual issue: Bayesian methods in political science.</p>
+<p>Hacking I (1975) <em>The emergence of probability</em>. Cambridge ; New York, Cambridge University Press.</p>
+<p>Hacking I (1990) <em>The taming of chance</em>. Cambridge University Press.</p>
+<p>Hastings W (1970) Monte carlo sampling methods using markov chains and their applications. <em>Biometrika</em>, 57(1), 97–109.</p>
+<p>Issenberg S (2012) The definitive story of how president obama mined voter data to win a second term | MIT technology review. MIT technology review. Available from: <a href="http://www.technologyreview.com/featuredstory/509026/how-obamas-team-used-big-data-to-rally-voters/" class="uri">http://www.technologyreview.com/featuredstory/509026/how-obamas-team-used-big-data-to-rally-voters/</a> (accessed 9 January 2013).</p>
+<p>Knorr-Cetina K and Bruegger U (2002) Traders’ engagement with markets. a postsocial relationship. <em>Theory, Culture and Society</em>, 19(5/6), 161–185.</p>
+<p>Lunn D, Thomas A, Best N, et al. (2000) WinBUGS-a bayesian modelling framework: Concepts, structure, and extensibility. <em>Statistics and Computing</em>, 10(4), 325–337.</p>
+<p>Mcgrayne SB (2011) <em>The theory that would not die: How bayes’ rule cracked the enigma code, hunted down russian submarines, and emerged triumphant from two centuries of controversy</em>. New Haven, CT, Yale University Press.</p>
+<p>Metropolis N (1949) The monte carlo method. <em>Journal of the American Statistical Association</em>, 44, 335–341.</p>
+<p>Metropolis N, Rosenbluth AW, Rosenbluth MN, et al. (1953) Equation of state calculations by fast computing machines. <em>The journal of chemical physics</em>, 21, 1087, Available from: <a href="http://link.aip.org/link/%3FJCPSA6/21/1087/1">http://link.aip.org/link/%3FJCPSA6/21/1087/1</a> (accessed 10 October 2012).</p>
+<p>Mohr JW and Bogdanov P (2013) Introduction—Topic models: What they are and why they matter. <em>Poetics</em>, 41(6), 545–569, Available from: <a href="http://www.sciencedirect.com/science/article/pii/S0304422X13000685" class="uri">http://www.sciencedirect.com/science/article/pii/S0304422X13000685</a> (accessed 16 December 2013).</p>
+<p>Porter TM (1996) <em>Trust in numbers: The pursuit of objectivity in science and public life</em>. Princeton Univ Pr.</p>
+<p>Robert C and Casella G (2008) A history of markov chain monte carlo-subjective recollections from incomplete data. <em>0808.2902</em>, Available from: <a href="http://arxiv.org/abs/0808.2902" class="uri">http://arxiv.org/abs/0808.2902</a> (accessed 1 January 2011).</p>
+<p>Robert CP and Casella G (2010) <em>Introducing monte carlo methods with r</em>. New York, Springer.</p>
+<p>Scherer M (2012) How obama’s data crunchers helped him win - CNN.com. CNN. Available from: <a href="http://www.cnn.com/2012/11/07/tech/web/obama-campaign-tech-team/index.html" class="uri">http://www.cnn.com/2012/11/07/tech/web/obama-campaign-tech-team/index.html</a> (accessed 20 November 2012).</p>
+<p>Simpson A, Tan VYF, Winn J, et al. (2010) Beyond atopy: multiple patterns of sensitization in relation to asthma in a birth cohort study. <em>American Journal of Respiratory and Critical Care Medicine</em>, 181(11), 1200–1206, Available from: <a href="http://www.ncbi.nlm.nih.gov/pubmed/20167852" class="uri">http://www.ncbi.nlm.nih.gov/pubmed/20167852</a> (accessed 16 May 2011).</p>
+<p>Stigler SM (1986) <em>The history of statistics: The measurement of uncertainty before 1900</em>. Cambridge, Mass., Harvard University Press.</p>
+<p>Suess EA and Trumbo BE (2010) <em>Introduction to probability simulation and gibbs sampling with r</em>. 1st Edition. New York, Springer.</p>
+<p>Wasserman L (2003) <em>All of statistics: A concise course in statistical inference</em>. New York, Springer.</p>
+</div>
+<div class="footnotes">
+<hr />
 <ol>
-	<li/>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%"><a name="fn1"></a>
-	This chapter will not trace the complicated historical emergence of
-	probability and its development in various statistical approaches to
-	knowing, deciding, classifying, normalising, governing, breeding,
-	predicting and modelling. Historians of statistics have documented
-	this in great detail, and tracked how statistics is implicated in
-	power-knowledge in various settings (Stigler, 1986; Hacking, 1990;
-	Daston, 1994; Porter, 1996).<a href="">↩</a></p>
-	<li/>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%"><a name="fn2"></a>
-	A rapid convergence on MCMC follows from the 1990’s onwards. Gibbs
-	samplers appear in desktop computer software such as the widely used
-	WinBUGS (‘Windows Bayes Using Gibbs Sampler’) written by
-	statisticians at Cambridge University in the early 1990’s (Lunn,
-	Thomas, Best, et al., 2000), and MCMC quickly moves into the
-	different disciplines and applications found today.<a href="">↩</a></p>
-	<li/>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%"><a name="fn3"></a>
-	In making sense of the change described by Robert and Casella,
-	scientific histories of the technique are useful. The brief version
-	of the history of MCMC might run as follows: physicists working on
-	nuclear weapons at Los Alamos in the 1940’s (Metropolis, 1949)}
-	first devised ways of working with high-dimensional spaces in
-	statistical mechanical approaches to physical processes such as
-	crystallisation and nuclear fission and fusion. Their approach to
-	statistical mechanics was later generalised by statisticians
-	(Hastings, 1970)}. It was taken up by ecologists working on spatial
-	interactions in plant communities during the 1970’s (Besag, 1974),
-	revamped by computer scientists working on blurred image
-	reconstruction (Geman &amp; Geman, 1984), and then subsequently
-	seized on again by statisticians in the early 1990’s (Gelfand &amp;
-	Smith, 1990). In the 1990’s, it became clear that the algorithm
-	could make Bayesian inference — a general style of statistical
-	reasoning that differs substantially from mainstream statistics in
-	its treatment of probability (Mcgrayne, 2011) — practically usable
-	in many situations. A vast, still continuing, expansion of Bayesian
-	statistics ensued, nearly all of which relied on MCMC in some form
-	or other. (Thompson Reuters Web of Knowledge shows 6 publications on
-	MCMC in 1990, but over 1000 <em>each year</em> for the last five
-	years in areas ranging from agricultural economics to zoology, from
-	wind-power capacity prediction to modelling the decline of lesser
-	sand eels in the North Sea; similarly NCBI Pubmed lists close to
-	4000 MCMC-related publications since 1990 in biomedical and life
-	sciences, ranging from classification of new-born babies EEGs to
-	within-farm transmission of foot and mouth disease; searches on
-	‘Bayesian’ yield many more results).<a href="">↩</a></p>
-	<li/>
-<p lang="en-AU" style="margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%"><a name="fn4"></a>
-	It is hardly surprising that scientists working at the epicentre of
-	the ‘closed world’ (Edwards, 1996) of post-WWII nuclear weapons
-	research should develop such a technique. In 1953, Metropolis, the
-	Rosenbluths and the Tellers were calculating ‘the properties of
-	any substance which may be considered as composing of interacting
-	individual molecules’ (Metropolis, Rosenbluth, Rosenbluth, et al.,
-	1953: 1087) (for instance, the flux of neutrons in a hydrogen bomb
-	detonation). In their short but still widely cited paper, they
-	describe how they used computer simulation to deal with the number
-	of possible interactions in a substance, and to thereby come up with
-	a statistical description of the properties of the substance. Their
-	model system consists of a square containing only a few hundred
-	particles. These particles are at various distances from each other
-	and exert forces (electric, magnetic, etc.) on each other dependent
-	on the distance. In order to estimate the probability that the
-	substance will be in any particular state (fissioning, vibrating,
-	crystallising, cooling down, etc.), they needed to integrate over
-	the many dimensional space comprising all the distance and forces
-	between the particles. (This space is a typical multivariate joint
-	distribution.) As they write, ‘it is evidently impossible to carry
-	out a several hundred dimensional integral by the usual numerical
-	methods, so we resort to the Monte Carlo method’ (1088), a method
-	that Nicholas Metropolis and Stanislaw Ulam had already described in
-	an earlier paper (Metropolis, 1949). Here the problem is that the
-	turbulent randomness of events in a square containing a few hundred
-	particles thwarts calculations of the physical properties of the
-	substance. They substitute for that non-integrable turbulent
-	randomness a controlled flow of random variables generated by a
-	computer. While still somewhat random (i.e.&nbsp;pseudo-random),
-	these Monte Carlo variables taken together approximate to the
-	integral of the many dimensional space.<a href="">↩</a></p>
+<li id="fn1"><p>This chapter will not trace the complicated historical emergence of probability and its development in various statistical approaches to knowing, deciding, classifying, normalising, governing, breeding, predicting and modelling. Historians of statistics have documented this in great detail, and tracked how statistics is implicated in power-knowledge in various settings <span class="citation">(Stigler, 1986; Hacking, 1990; Daston, 1994; Porter, 1996)</span>.<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>A rapid convergence on MCMC follows from the 1990’s onwards. Gibbs samplers appear in desktop computer software such as the widely used WinBUGS (‘Windows Bayes Using Gibbs Sampler’) written by statisticians at Cambridge University in the early 1990’s <span class="citation">(Lunn, Thomas, Best, et al., 2000)</span>, and MCMC quickly moves into the different disciplines and applications found today.<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>In making sense of the change described by Robert and Casella, scientific histories of the technique are useful. The brief version of the history of MCMC might run as follows: physicists working on nuclear weapons at Los Alamos in the 1940’s <span class="citation">(Metropolis, 1949)</span>} first devised ways of working with high-dimensional spaces in statistical mechanical approaches to physical processes such as crystallisation and nuclear fission and fusion. Their approach to statistical mechanics was later generalised by statisticians <span class="citation">(Hastings, 1970)</span>}. It was taken up by ecologists working on spatial interactions in plant communities during the 1970’s <span class="citation">(Besag, 1974)</span>, revamped by computer scientists working on blurred image reconstruction <span class="citation">(Geman &amp; Geman, 1984)</span>, and then subsequently seized on again by statisticians in the early 1990’s <span class="citation">(Gelfand &amp; Smith, 1990)</span>. In the 1990’s, it became clear that the algorithm could make Bayesian inference — a general style of statistical reasoning that differs substantially from mainstream statistics in its treatment of probability <span class="citation">(Mcgrayne, 2011)</span> — practically usable in many situations. A vast, still continuing, expansion of Bayesian statistics ensued, nearly all of which relied on MCMC in some form or other. (Thompson Reuters Web of Knowledge shows 6 publications on MCMC in 1990, but over 1000 <em>each year</em> for the last five years in areas ranging from agricultural economics to zoology, from wind-power capacity prediction to modelling the decline of lesser sand eels in the North Sea; similarly NCBI Pubmed lists close to 4000 MCMC-related publications since 1990 in biomedical and life sciences, ranging from classification of new-born babies EEGs to within-farm transmission of foot and mouth disease; searches on ‘Bayesian’ yield many more results).<a href="#fnref3">↩</a></p></li>
+<li id="fn4"><p>It is hardly surprising that scientists working at the epicentre of the ‘closed world’ <span class="citation">(Edwards, 1996)</span> of post-WWII nuclear weapons research should develop such a technique. In 1953, Metropolis, the Rosenbluths and the Tellers were calculating ‘the properties of any substance which may be considered as composing of interacting individual molecules’ <span class="citation">(Metropolis, Rosenbluth, Rosenbluth, et al., 1953: 1087)</span> (for instance, the flux of neutrons in a hydrogen bomb detonation). In their short but still widely cited paper, they describe how they used computer simulation to deal with the number of possible interactions in a substance, and to thereby come up with a statistical description of the properties of the substance. Their model system consists of a square containing only a few hundred particles. These particles are at various distances from each other and exert forces (electric, magnetic, etc.) on each other dependent on the distance. In order to estimate the probability that the substance will be in any particular state (fissioning, vibrating, crystallising, cooling down, etc.), they needed to integrate over the many dimensional space comprising all the distance and forces between the particles. (This space is a typical multivariate joint distribution.) As they write, ‘it is evidently impossible to carry out a several hundred dimensional integral by the usual numerical methods, so we resort to the Monte Carlo method’ (1088), a method that Nicholas Metropolis and Stanislaw Ulam had already described in an earlier paper <span class="citation">(Metropolis, 1949)</span>. Here the problem is that the turbulent randomness of events in a square containing a few hundred particles thwarts calculations of the physical properties of the substance. They substitute for that non-integrable turbulent randomness a controlled flow of random variables generated by a computer. While still somewhat random (i.e. pseudo-random), these Monte Carlo variables taken together approximate to the integral of the many dimensional space.<a href="#fnref4">↩</a></p></li>
 </ol>
-</body>
-</html>
+</div>
