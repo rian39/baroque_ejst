@@ -13,5 +13,5 @@
 
 pandoc --smart --normalize --latex-engine=xelatex  --bibliography=/home/mackenza/ref_bibs/data_forms_thought.bib  --bibliography=/home/mackenza/ref_bibs/machine_learning.bib --bibliography=/home/mackenza/ref_bibs/R.bib --csl=references/sage-harvard.csl  mackenzie_mattering.md -o mackenzie_mattering.pdf
 
-evince mackenzie_mattering.pdf
+#evince mackenzie_mattering.pdf
 
